@@ -1,0 +1,7103 @@
+{
+  "employees": [
+    {
+      "id": "1762763711399",
+      "name": "良知大樹",
+      "dept": "",
+      "updatedAt": "2025-11-10T17:35:11.395137",
+      "oct": {
+        "customer": "SBS",
+        "revenue": 700000,
+        "type": "請負"
+      },
+      "nov": {
+        "customer": "SBS",
+        "revenue": 700000,
+        "type": "請負"
+      },
+      "dec": {
+        "customer": "SBS",
+        "revenue": 700000,
+        "type": "請負"
+      },
+      "jan": {
+        "customer": "",
+        "revenue": 0,
+        "type": ""
+      },
+      "feb": {
+        "customer": "",
+        "revenue": 0,
+        "type": ""
+      },
+      "mar": {
+        "customer": "",
+        "revenue": 0,
+        "type": ""
+      },
+      "apr": {
+        "customer": "",
+        "revenue": 0,
+        "type": ""
+      },
+      "may": {
+        "customer": "",
+        "revenue": 0,
+        "type": ""
+      },
+      "jun": {
+        "customer": "",
+        "revenue": 0,
+        "type": ""
+      },
+      "jul": {
+        "customer": "",
+        "revenue": 0,
+        "type": ""
+      },
+      "aug": {
+        "customer": "",
+        "revenue": 0,
+        "type": ""
+      },
+      "sep": {
+        "customer": "",
+        "revenue": 0,
+        "type": ""
+      }
+    },
+    {
+      "id": "1762763711401",
+      "name": "小川真吏香",
+      "dept": "",
+      "updatedAt": "2025-11-10T17:35:11.395137",
+      "oct": {
+        "customer": "SBS",
+        "revenue": 600000,
+        "type": "請負"
+      },
+      "nov": {
+        "customer": "SBS",
+        "revenue": 600000,
+        "type": "常駐"
+      },
+      "dec": {
+        "customer": "SBS",
+        "revenue": 600000,
+        "type": "常駐"
+      },
+      "jan": {
+        "customer": "",
+        "revenue": 0,
+        "type": ""
+      },
+      "feb": {
+        "customer": "",
+        "revenue": 0,
+        "type": ""
+      },
+      "mar": {
+        "customer": "",
+        "revenue": 0,
+        "type": ""
+      },
+      "apr": {
+        "customer": "",
+        "revenue": 0,
+        "type": ""
+      },
+      "may": {
+        "customer": "",
+        "revenue": 0,
+        "type": ""
+      },
+      "jun": {
+        "customer": "",
+        "revenue": 0,
+        "type": ""
+      },
+      "jul": {
+        "customer": "",
+        "revenue": 0,
+        "type": ""
+      },
+      "aug": {
+        "customer": "",
+        "revenue": 0,
+        "type": ""
+      },
+      "sep": {
+        "customer": "",
+        "revenue": 0,
+        "type": ""
+      }
+    },
+    {
+      "id": "1762763711402",
+      "name": "富樫紗良",
+      "dept": "",
+      "updatedAt": "2025-11-10T17:35:11.395137",
+      "oct": {
+        "customer": "SBS",
+        "revenue": 600000,
+        "type": "請負"
+      },
+      "nov": {
+        "customer": "SBS",
+        "revenue": 600000,
+        "type": "常駐"
+      },
+      "dec": {
+        "customer": "SBS",
+        "revenue": 600000,
+        "type": "常駐"
+      },
+      "jan": {
+        "customer": "",
+        "revenue": 0,
+        "type": ""
+      },
+      "feb": {
+        "customer": "",
+        "revenue": 0,
+        "type": ""
+      },
+      "mar": {
+        "customer": "",
+        "revenue": 0,
+        "type": ""
+      },
+      "apr": {
+        "customer": "",
+        "revenue": 0,
+        "type": ""
+      },
+      "may": {
+        "customer": "",
+        "revenue": 0,
+        "type": ""
+      },
+      "jun": {
+        "customer": "",
+        "revenue": 0,
+        "type": ""
+      },
+      "jul": {
+        "customer": "",
+        "revenue": 0,
+        "type": ""
+      },
+      "aug": {
+        "customer": "",
+        "revenue": 0,
+        "type": ""
+      },
+      "sep": {
+        "customer": "",
+        "revenue": 0,
+        "type": ""
+      }
+    },
+    {
+      "id": "1762763711403",
+      "name": "杉山遼",
+      "dept": "",
+      "updatedAt": "2025-11-10T17:35:11.395137",
+      "oct": {
+        "customer": "SBS",
+        "revenue": 540000,
+        "type": "常駐"
+      },
+      "nov": {
+        "customer": "SBS",
+        "revenue": 540000,
+        "type": "常駐"
+      },
+      "dec": {
+        "customer": "SBS",
+        "revenue": 540000,
+        "type": "常駐"
+      },
+      "jan": {
+        "customer": "",
+        "revenue": 0,
+        "type": ""
+      },
+      "feb": {
+        "customer": "",
+        "revenue": 0,
+        "type": ""
+      },
+      "mar": {
+        "customer": "",
+        "revenue": 0,
+        "type": ""
+      },
+      "apr": {
+        "customer": "",
+        "revenue": 0,
+        "type": ""
+      },
+      "may": {
+        "customer": "",
+        "revenue": 0,
+        "type": ""
+      },
+      "jun": {
+        "customer": "",
+        "revenue": 0,
+        "type": ""
+      },
+      "jul": {
+        "customer": "",
+        "revenue": 0,
+        "type": ""
+      },
+      "aug": {
+        "customer": "",
+        "revenue": 0,
+        "type": ""
+      },
+      "sep": {
+        "customer": "",
+        "revenue": 0,
+        "type": ""
+      }
+    },
+    {
+      "id": "1762763711404",
+      "name": "原田翔生",
+      "dept": "",
+      "updatedAt": "2025-11-10T17:35:11.395137",
+      "oct": {
+        "customer": "SBS",
+        "revenue": 540000,
+        "type": "常駐"
+      },
+      "nov": {
+        "customer": "SBS",
+        "revenue": 540000,
+        "type": "常駐"
+      },
+      "dec": {
+        "customer": "SBS",
+        "revenue": 540000,
+        "type": "常駐"
+      },
+      "jan": {
+        "customer": "",
+        "revenue": 0,
+        "type": ""
+      },
+      "feb": {
+        "customer": "",
+        "revenue": 0,
+        "type": ""
+      },
+      "mar": {
+        "customer": "",
+        "revenue": 0,
+        "type": ""
+      },
+      "apr": {
+        "customer": "",
+        "revenue": 0,
+        "type": ""
+      },
+      "may": {
+        "customer": "",
+        "revenue": 0,
+        "type": ""
+      },
+      "jun": {
+        "customer": "",
+        "revenue": 0,
+        "type": ""
+      },
+      "jul": {
+        "customer": "",
+        "revenue": 0,
+        "type": ""
+      },
+      "aug": {
+        "customer": "",
+        "revenue": 0,
+        "type": ""
+      },
+      "sep": {
+        "customer": "",
+        "revenue": 0,
+        "type": ""
+      }
+    },
+    {
+      "id": "1762763711405",
+      "name": "福井喜朗",
+      "dept": "",
+      "updatedAt": "2025-11-10T17:35:11.395137",
+      "oct": {
+        "customer": "SBS",
+        "revenue": 520000,
+        "type": "常駐"
+      },
+      "nov": {
+        "customer": "SBS",
+        "revenue": 520000,
+        "type": "常駐"
+      },
+      "dec": {
+        "customer": "SBS",
+        "revenue": 520000,
+        "type": "常駐"
+      },
+      "jan": {
+        "customer": "",
+        "revenue": 0,
+        "type": ""
+      },
+      "feb": {
+        "customer": "",
+        "revenue": 0,
+        "type": ""
+      },
+      "mar": {
+        "customer": "",
+        "revenue": 0,
+        "type": ""
+      },
+      "apr": {
+        "customer": "",
+        "revenue": 0,
+        "type": ""
+      },
+      "may": {
+        "customer": "",
+        "revenue": 0,
+        "type": ""
+      },
+      "jun": {
+        "customer": "",
+        "revenue": 0,
+        "type": ""
+      },
+      "jul": {
+        "customer": "",
+        "revenue": 0,
+        "type": ""
+      },
+      "aug": {
+        "customer": "",
+        "revenue": 0,
+        "type": ""
+      },
+      "sep": {
+        "customer": "",
+        "revenue": 0,
+        "type": ""
+      }
+    },
+    {
+      "id": "1762763711407",
+      "name": "山口千明",
+      "dept": "",
+      "updatedAt": "2025-11-10T17:35:11.395137",
+      "oct": {
+        "customer": "SSS",
+        "revenue": 620000,
+        "type": "常駐"
+      },
+      "nov": {
+        "customer": "SSS",
+        "revenue": 620000,
+        "type": "常駐"
+      },
+      "dec": {
+        "customer": "SSS",
+        "revenue": 620000,
+        "type": "常駐"
+      },
+      "jan": {
+        "customer": "",
+        "revenue": 0,
+        "type": ""
+      },
+      "feb": {
+        "customer": "",
+        "revenue": 0,
+        "type": ""
+      },
+      "mar": {
+        "customer": "",
+        "revenue": 0,
+        "type": ""
+      },
+      "apr": {
+        "customer": "",
+        "revenue": 0,
+        "type": ""
+      },
+      "may": {
+        "customer": "",
+        "revenue": 0,
+        "type": ""
+      },
+      "jun": {
+        "customer": "",
+        "revenue": 0,
+        "type": ""
+      },
+      "jul": {
+        "customer": "",
+        "revenue": 0,
+        "type": ""
+      },
+      "aug": {
+        "customer": "",
+        "revenue": 0,
+        "type": ""
+      },
+      "sep": {
+        "customer": "",
+        "revenue": 0,
+        "type": ""
+      }
+    },
+    {
+      "id": "1762763711408",
+      "name": "仁科茉莉花",
+      "dept": "",
+      "updatedAt": "2025-11-10T17:35:11.395137",
+      "oct": {
+        "customer": "SSS",
+        "revenue": 600000,
+        "type": "常駐"
+      },
+      "nov": {
+        "customer": "SSS",
+        "revenue": 600000,
+        "type": "常駐"
+      },
+      "dec": {
+        "customer": "SSS",
+        "revenue": 600000,
+        "type": "常駐"
+      },
+      "jan": {
+        "customer": "",
+        "revenue": 0,
+        "type": ""
+      },
+      "feb": {
+        "customer": "",
+        "revenue": 0,
+        "type": ""
+      },
+      "mar": {
+        "customer": "",
+        "revenue": 0,
+        "type": ""
+      },
+      "apr": {
+        "customer": "",
+        "revenue": 0,
+        "type": ""
+      },
+      "may": {
+        "customer": "",
+        "revenue": 0,
+        "type": ""
+      },
+      "jun": {
+        "customer": "",
+        "revenue": 0,
+        "type": ""
+      },
+      "jul": {
+        "customer": "",
+        "revenue": 0,
+        "type": ""
+      },
+      "aug": {
+        "customer": "",
+        "revenue": 0,
+        "type": ""
+      },
+      "sep": {
+        "customer": "",
+        "revenue": 0,
+        "type": ""
+      }
+    },
+    {
+      "id": "1762763711410",
+      "name": "眞田嗣也",
+      "dept": "",
+      "updatedAt": "2025-11-10T17:35:11.395137",
+      "oct": {
+        "customer": "SCC",
+        "revenue": 567000,
+        "type": "常駐"
+      },
+      "nov": {
+        "customer": "SCC",
+        "revenue": 567000,
+        "type": "常駐"
+      },
+      "dec": {
+        "customer": "SCC",
+        "revenue": 567000,
+        "type": "常駐"
+      },
+      "jan": {
+        "customer": "",
+        "revenue": 0,
+        "type": ""
+      },
+      "feb": {
+        "customer": "",
+        "revenue": 0,
+        "type": ""
+      },
+      "mar": {
+        "customer": "",
+        "revenue": 0,
+        "type": ""
+      },
+      "apr": {
+        "customer": "",
+        "revenue": 0,
+        "type": ""
+      },
+      "may": {
+        "customer": "",
+        "revenue": 0,
+        "type": ""
+      },
+      "jun": {
+        "customer": "",
+        "revenue": 0,
+        "type": ""
+      },
+      "jul": {
+        "customer": "",
+        "revenue": 0,
+        "type": ""
+      },
+      "aug": {
+        "customer": "",
+        "revenue": 0,
+        "type": ""
+      },
+      "sep": {
+        "customer": "",
+        "revenue": 0,
+        "type": ""
+      }
+    },
+    {
+      "id": "1762763711411",
+      "name": "山崎悠斗",
+      "dept": "",
+      "updatedAt": "2025-11-10T17:35:11.395137",
+      "oct": {
+        "customer": "SCC",
+        "revenue": 530000,
+        "type": "常駐"
+      },
+      "nov": {
+        "customer": "SCC",
+        "revenue": 530000,
+        "type": "常駐"
+      },
+      "dec": {
+        "customer": "SCC",
+        "revenue": 530000,
+        "type": "常駐"
+      },
+      "jan": {
+        "customer": "",
+        "revenue": 0,
+        "type": ""
+      },
+      "feb": {
+        "customer": "",
+        "revenue": 0,
+        "type": ""
+      },
+      "mar": {
+        "customer": "",
+        "revenue": 0,
+        "type": ""
+      },
+      "apr": {
+        "customer": "",
+        "revenue": 0,
+        "type": ""
+      },
+      "may": {
+        "customer": "",
+        "revenue": 0,
+        "type": ""
+      },
+      "jun": {
+        "customer": "",
+        "revenue": 0,
+        "type": ""
+      },
+      "jul": {
+        "customer": "",
+        "revenue": 0,
+        "type": ""
+      },
+      "aug": {
+        "customer": "",
+        "revenue": 0,
+        "type": ""
+      },
+      "sep": {
+        "customer": "",
+        "revenue": 0,
+        "type": ""
+      }
+    },
+    {
+      "id": "1762763711413",
+      "name": "森下明美",
+      "dept": "",
+      "updatedAt": "2025-11-10T17:35:11.395137",
+      "oct": {
+        "customer": "NDS",
+        "revenue": 636000,
+        "type": "常駐"
+      },
+      "nov": {
+        "customer": "NDS",
+        "revenue": 636000,
+        "type": "常駐"
+      },
+      "dec": {
+        "customer": "NDS",
+        "revenue": 636000,
+        "type": "常駐"
+      },
+      "jan": {
+        "customer": "",
+        "revenue": 0,
+        "type": ""
+      },
+      "feb": {
+        "customer": "",
+        "revenue": 0,
+        "type": ""
+      },
+      "mar": {
+        "customer": "",
+        "revenue": 0,
+        "type": ""
+      },
+      "apr": {
+        "customer": "",
+        "revenue": 0,
+        "type": ""
+      },
+      "may": {
+        "customer": "",
+        "revenue": 0,
+        "type": ""
+      },
+      "jun": {
+        "customer": "",
+        "revenue": 0,
+        "type": ""
+      },
+      "jul": {
+        "customer": "",
+        "revenue": 0,
+        "type": ""
+      },
+      "aug": {
+        "customer": "",
+        "revenue": 0,
+        "type": ""
+      },
+      "sep": {
+        "customer": "",
+        "revenue": 0,
+        "type": ""
+      }
+    },
+    {
+      "id": "1762763711414",
+      "name": "片山彩",
+      "dept": "",
+      "updatedAt": "2025-11-10T17:35:11.395137",
+      "oct": {
+        "customer": "NDS",
+        "revenue": 616000,
+        "type": "常駐"
+      },
+      "nov": {
+        "customer": "NDS",
+        "revenue": 616000,
+        "type": "常駐"
+      },
+      "dec": {
+        "customer": "NDS",
+        "revenue": 616000,
+        "type": "常駐"
+      },
+      "jan": {
+        "customer": "",
+        "revenue": 0,
+        "type": ""
+      },
+      "feb": {
+        "customer": "",
+        "revenue": 0,
+        "type": ""
+      },
+      "mar": {
+        "customer": "",
+        "revenue": 0,
+        "type": ""
+      },
+      "apr": {
+        "customer": "",
+        "revenue": 0,
+        "type": ""
+      },
+      "may": {
+        "customer": "",
+        "revenue": 0,
+        "type": ""
+      },
+      "jun": {
+        "customer": "",
+        "revenue": 0,
+        "type": ""
+      },
+      "jul": {
+        "customer": "",
+        "revenue": 0,
+        "type": ""
+      },
+      "aug": {
+        "customer": "",
+        "revenue": 0,
+        "type": ""
+      },
+      "sep": {
+        "customer": "",
+        "revenue": 0,
+        "type": ""
+      }
+    },
+    {
+      "id": "1762763711416",
+      "name": "池田真彬",
+      "dept": "",
+      "updatedAt": "2025-11-10T17:35:11.395137",
+      "oct": {
+        "customer": "電翔",
+        "revenue": 600000,
+        "type": "常駐"
+      },
+      "nov": {
+        "customer": "電翔",
+        "revenue": 600000,
+        "type": "常駐"
+      },
+      "dec": {
+        "customer": "電翔",
+        "revenue": 600000,
+        "type": "常駐"
+      },
+      "jan": {
+        "customer": "",
+        "revenue": 0,
+        "type": ""
+      },
+      "feb": {
+        "customer": "",
+        "revenue": 0,
+        "type": ""
+      },
+      "mar": {
+        "customer": "",
+        "revenue": 0,
+        "type": ""
+      },
+      "apr": {
+        "customer": "",
+        "revenue": 0,
+        "type": ""
+      },
+      "may": {
+        "customer": "",
+        "revenue": 0,
+        "type": ""
+      },
+      "jun": {
+        "customer": "",
+        "revenue": 0,
+        "type": ""
+      },
+      "jul": {
+        "customer": "",
+        "revenue": 0,
+        "type": ""
+      },
+      "aug": {
+        "customer": "",
+        "revenue": 0,
+        "type": ""
+      },
+      "sep": {
+        "customer": "",
+        "revenue": 0,
+        "type": ""
+      }
+    },
+    {
+      "id": "1762763711418",
+      "name": "村松光祐",
+      "dept": "",
+      "updatedAt": "2025-11-10T17:35:11.395137",
+      "oct": {
+        "customer": "SST",
+        "revenue": 620000,
+        "type": "常駐"
+      },
+      "nov": {
+        "customer": "SST",
+        "revenue": 620000,
+        "type": "常駐"
+      },
+      "dec": {
+        "customer": "SST",
+        "revenue": 620000,
+        "type": "常駐"
+      },
+      "jan": {
+        "customer": "",
+        "revenue": 0,
+        "type": ""
+      },
+      "feb": {
+        "customer": "",
+        "revenue": 0,
+        "type": ""
+      },
+      "mar": {
+        "customer": "",
+        "revenue": 0,
+        "type": ""
+      },
+      "apr": {
+        "customer": "",
+        "revenue": 0,
+        "type": ""
+      },
+      "may": {
+        "customer": "",
+        "revenue": 0,
+        "type": ""
+      },
+      "jun": {
+        "customer": "",
+        "revenue": 0,
+        "type": ""
+      },
+      "jul": {
+        "customer": "",
+        "revenue": 0,
+        "type": ""
+      },
+      "aug": {
+        "customer": "",
+        "revenue": 0,
+        "type": ""
+      },
+      "sep": {
+        "customer": "",
+        "revenue": 0,
+        "type": ""
+      }
+    },
+    {
+      "id": "1762763711419",
+      "name": "岩科正人",
+      "dept": "",
+      "updatedAt": "2025-11-10T17:35:11.395137",
+      "oct": {
+        "customer": "SST",
+        "revenue": 675000,
+        "type": "常駐"
+      },
+      "nov": {
+        "customer": "SST",
+        "revenue": 675000,
+        "type": "常駐"
+      },
+      "dec": {
+        "customer": "SST",
+        "revenue": 675000,
+        "type": "常駐"
+      },
+      "jan": {
+        "customer": "",
+        "revenue": 0,
+        "type": ""
+      },
+      "feb": {
+        "customer": "",
+        "revenue": 0,
+        "type": ""
+      },
+      "mar": {
+        "customer": "",
+        "revenue": 0,
+        "type": ""
+      },
+      "apr": {
+        "customer": "",
+        "revenue": 0,
+        "type": ""
+      },
+      "may": {
+        "customer": "",
+        "revenue": 0,
+        "type": ""
+      },
+      "jun": {
+        "customer": "",
+        "revenue": 0,
+        "type": ""
+      },
+      "jul": {
+        "customer": "",
+        "revenue": 0,
+        "type": ""
+      },
+      "aug": {
+        "customer": "",
+        "revenue": 0,
+        "type": ""
+      },
+      "sep": {
+        "customer": "",
+        "revenue": 0,
+        "type": ""
+      }
+    },
+    {
+      "id": "1762763711420",
+      "name": "佐藤悠太",
+      "dept": "",
+      "updatedAt": "2025-11-10T17:35:11.395137",
+      "oct": {
+        "customer": "SST",
+        "revenue": 600000,
+        "type": "常駐"
+      },
+      "nov": {
+        "customer": "SST",
+        "revenue": 600000,
+        "type": "常駐"
+      },
+      "dec": {
+        "customer": "SST",
+        "revenue": 600000,
+        "type": "常駐"
+      },
+      "jan": {
+        "customer": "",
+        "revenue": 0,
+        "type": ""
+      },
+      "feb": {
+        "customer": "",
+        "revenue": 0,
+        "type": ""
+      },
+      "mar": {
+        "customer": "",
+        "revenue": 0,
+        "type": ""
+      },
+      "apr": {
+        "customer": "",
+        "revenue": 0,
+        "type": ""
+      },
+      "may": {
+        "customer": "",
+        "revenue": 0,
+        "type": ""
+      },
+      "jun": {
+        "customer": "",
+        "revenue": 0,
+        "type": ""
+      },
+      "jul": {
+        "customer": "",
+        "revenue": 0,
+        "type": ""
+      },
+      "aug": {
+        "customer": "",
+        "revenue": 0,
+        "type": ""
+      },
+      "sep": {
+        "customer": "",
+        "revenue": 0,
+        "type": ""
+      }
+    },
+    {
+      "id": "1762763711422",
+      "name": "河上昌司",
+      "dept": "",
+      "updatedAt": "2025-11-10T17:35:11.395137",
+      "oct": {
+        "customer": "Me",
+        "revenue": 820000,
+        "type": "常駐"
+      },
+      "nov": {
+        "customer": "Me",
+        "revenue": 820000,
+        "type": "常駐"
+      },
+      "dec": {
+        "customer": "Me",
+        "revenue": 820000,
+        "type": "常駐"
+      },
+      "jan": {
+        "customer": "",
+        "revenue": 0,
+        "type": ""
+      },
+      "feb": {
+        "customer": "",
+        "revenue": 0,
+        "type": ""
+      },
+      "mar": {
+        "customer": "",
+        "revenue": 0,
+        "type": ""
+      },
+      "apr": {
+        "customer": "",
+        "revenue": 0,
+        "type": ""
+      },
+      "may": {
+        "customer": "",
+        "revenue": 0,
+        "type": ""
+      },
+      "jun": {
+        "customer": "",
+        "revenue": 0,
+        "type": ""
+      },
+      "jul": {
+        "customer": "",
+        "revenue": 0,
+        "type": ""
+      },
+      "aug": {
+        "customer": "",
+        "revenue": 0,
+        "type": ""
+      },
+      "sep": {
+        "customer": "",
+        "revenue": 0,
+        "type": ""
+      }
+    },
+    {
+      "id": "1762763711423",
+      "name": "秋山侑佑",
+      "dept": "",
+      "updatedAt": "2025-11-10T17:35:11.395137",
+      "oct": {
+        "customer": "Me",
+        "revenue": 640000,
+        "type": "常駐"
+      },
+      "nov": {
+        "customer": "Me",
+        "revenue": 640000,
+        "type": "常駐"
+      },
+      "dec": {
+        "customer": "Me",
+        "revenue": 640000,
+        "type": "常駐"
+      },
+      "jan": {
+        "customer": "",
+        "revenue": 0,
+        "type": ""
+      },
+      "feb": {
+        "customer": "",
+        "revenue": 0,
+        "type": ""
+      },
+      "mar": {
+        "customer": "",
+        "revenue": 0,
+        "type": ""
+      },
+      "apr": {
+        "customer": "",
+        "revenue": 0,
+        "type": ""
+      },
+      "may": {
+        "customer": "",
+        "revenue": 0,
+        "type": ""
+      },
+      "jun": {
+        "customer": "",
+        "revenue": 0,
+        "type": ""
+      },
+      "jul": {
+        "customer": "",
+        "revenue": 0,
+        "type": ""
+      },
+      "aug": {
+        "customer": "",
+        "revenue": 0,
+        "type": ""
+      },
+      "sep": {
+        "customer": "",
+        "revenue": 0,
+        "type": ""
+      }
+    },
+    {
+      "id": "1762763711424",
+      "name": "入谷月乃",
+      "dept": "",
+      "updatedAt": "2025-11-10T17:35:11.395137",
+      "oct": {
+        "customer": "Me",
+        "revenue": 580000,
+        "type": "常駐"
+      },
+      "nov": {
+        "customer": "Me",
+        "revenue": 580000,
+        "type": "常駐"
+      },
+      "dec": {
+        "customer": "Me",
+        "revenue": 580000,
+        "type": "常駐"
+      },
+      "jan": {
+        "customer": "",
+        "revenue": 0,
+        "type": ""
+      },
+      "feb": {
+        "customer": "",
+        "revenue": 0,
+        "type": ""
+      },
+      "mar": {
+        "customer": "",
+        "revenue": 0,
+        "type": ""
+      },
+      "apr": {
+        "customer": "",
+        "revenue": 0,
+        "type": ""
+      },
+      "may": {
+        "customer": "",
+        "revenue": 0,
+        "type": ""
+      },
+      "jun": {
+        "customer": "",
+        "revenue": 0,
+        "type": ""
+      },
+      "jul": {
+        "customer": "",
+        "revenue": 0,
+        "type": ""
+      },
+      "aug": {
+        "customer": "",
+        "revenue": 0,
+        "type": ""
+      },
+      "sep": {
+        "customer": "",
+        "revenue": 0,
+        "type": ""
+      }
+    },
+    {
+      "id": "1762763711425",
+      "name": "大石莉那",
+      "dept": "",
+      "updatedAt": "2025-11-10T17:35:11.395137",
+      "oct": {
+        "customer": "Me",
+        "revenue": 650000,
+        "type": "常駐"
+      },
+      "nov": {
+        "customer": "Me",
+        "revenue": 650000,
+        "type": "常駐"
+      },
+      "dec": {
+        "customer": "Me",
+        "revenue": 650000,
+        "type": "常駐"
+      },
+      "jan": {
+        "customer": "",
+        "revenue": 0,
+        "type": ""
+      },
+      "feb": {
+        "customer": "",
+        "revenue": 0,
+        "type": ""
+      },
+      "mar": {
+        "customer": "",
+        "revenue": 0,
+        "type": ""
+      },
+      "apr": {
+        "customer": "",
+        "revenue": 0,
+        "type": ""
+      },
+      "may": {
+        "customer": "",
+        "revenue": 0,
+        "type": ""
+      },
+      "jun": {
+        "customer": "",
+        "revenue": 0,
+        "type": ""
+      },
+      "jul": {
+        "customer": "",
+        "revenue": 0,
+        "type": ""
+      },
+      "aug": {
+        "customer": "",
+        "revenue": 0,
+        "type": ""
+      },
+      "sep": {
+        "customer": "",
+        "revenue": 0,
+        "type": ""
+      }
+    },
+    {
+      "id": "1762763711426",
+      "name": "伊藤大智",
+      "dept": "",
+      "updatedAt": "2025-11-10T17:35:11.395137",
+      "oct": {
+        "customer": "Me",
+        "revenue": 560000,
+        "type": "常駐"
+      },
+      "nov": {
+        "customer": "Me",
+        "revenue": 560000,
+        "type": "常駐"
+      },
+      "dec": {
+        "customer": "Me",
+        "revenue": 560000,
+        "type": "常駐"
+      },
+      "jan": {
+        "customer": "",
+        "revenue": 0,
+        "type": ""
+      },
+      "feb": {
+        "customer": "",
+        "revenue": 0,
+        "type": ""
+      },
+      "mar": {
+        "customer": "",
+        "revenue": 0,
+        "type": ""
+      },
+      "apr": {
+        "customer": "",
+        "revenue": 0,
+        "type": ""
+      },
+      "may": {
+        "customer": "",
+        "revenue": 0,
+        "type": ""
+      },
+      "jun": {
+        "customer": "",
+        "revenue": 0,
+        "type": ""
+      },
+      "jul": {
+        "customer": "",
+        "revenue": 0,
+        "type": ""
+      },
+      "aug": {
+        "customer": "",
+        "revenue": 0,
+        "type": ""
+      },
+      "sep": {
+        "customer": "",
+        "revenue": 0,
+        "type": ""
+      }
+    },
+    {
+      "id": "1762763711427",
+      "name": "小林英彰",
+      "dept": "",
+      "updatedAt": "2025-11-10T17:35:11.395137",
+      "oct": {
+        "customer": "Me",
+        "revenue": 530000,
+        "type": "常駐"
+      },
+      "nov": {
+        "customer": "Me",
+        "revenue": 530000,
+        "type": "常駐"
+      },
+      "dec": {
+        "customer": "Me",
+        "revenue": 530000,
+        "type": "常駐"
+      },
+      "jan": {
+        "customer": "",
+        "revenue": 0,
+        "type": ""
+      },
+      "feb": {
+        "customer": "",
+        "revenue": 0,
+        "type": ""
+      },
+      "mar": {
+        "customer": "",
+        "revenue": 0,
+        "type": ""
+      },
+      "apr": {
+        "customer": "",
+        "revenue": 0,
+        "type": ""
+      },
+      "may": {
+        "customer": "",
+        "revenue": 0,
+        "type": ""
+      },
+      "jun": {
+        "customer": "",
+        "revenue": 0,
+        "type": ""
+      },
+      "jul": {
+        "customer": "",
+        "revenue": 0,
+        "type": ""
+      },
+      "aug": {
+        "customer": "",
+        "revenue": 0,
+        "type": ""
+      },
+      "sep": {
+        "customer": "",
+        "revenue": 0,
+        "type": ""
+      }
+    },
+    {
+      "id": "1762763711428",
+      "name": "河住奈々",
+      "dept": "",
+      "updatedAt": "2025-11-10T17:35:11.395137",
+      "oct": {
+        "customer": "Me",
+        "revenue": 630000,
+        "type": "常駐"
+      },
+      "nov": {
+        "customer": "Me",
+        "revenue": 630000,
+        "type": "常駐"
+      },
+      "dec": {
+        "customer": "Me",
+        "revenue": 630000,
+        "type": "常駐"
+      },
+      "jan": {
+        "customer": "",
+        "revenue": 0,
+        "type": ""
+      },
+      "feb": {
+        "customer": "",
+        "revenue": 0,
+        "type": ""
+      },
+      "mar": {
+        "customer": "",
+        "revenue": 0,
+        "type": ""
+      },
+      "apr": {
+        "customer": "",
+        "revenue": 0,
+        "type": ""
+      },
+      "may": {
+        "customer": "",
+        "revenue": 0,
+        "type": ""
+      },
+      "jun": {
+        "customer": "",
+        "revenue": 0,
+        "type": ""
+      },
+      "jul": {
+        "customer": "",
+        "revenue": 0,
+        "type": ""
+      },
+      "aug": {
+        "customer": "",
+        "revenue": 0,
+        "type": ""
+      },
+      "sep": {
+        "customer": "",
+        "revenue": 0,
+        "type": ""
+      }
+    },
+    {
+      "id": "1762763711429",
+      "name": "藤沢翔",
+      "dept": "",
+      "updatedAt": "2025-11-10T17:35:11.395137",
+      "oct": {
+        "customer": "Me",
+        "revenue": 550000,
+        "type": "常駐"
+      },
+      "nov": {
+        "customer": "Me",
+        "revenue": 550000,
+        "type": "常駐"
+      },
+      "dec": {
+        "customer": "Me",
+        "revenue": 550000,
+        "type": "常駐"
+      },
+      "jan": {
+        "customer": "",
+        "revenue": 0,
+        "type": ""
+      },
+      "feb": {
+        "customer": "",
+        "revenue": 0,
+        "type": ""
+      },
+      "mar": {
+        "customer": "",
+        "revenue": 0,
+        "type": ""
+      },
+      "apr": {
+        "customer": "",
+        "revenue": 0,
+        "type": ""
+      },
+      "may": {
+        "customer": "",
+        "revenue": 0,
+        "type": ""
+      },
+      "jun": {
+        "customer": "",
+        "revenue": 0,
+        "type": ""
+      },
+      "jul": {
+        "customer": "",
+        "revenue": 0,
+        "type": ""
+      },
+      "aug": {
+        "customer": "",
+        "revenue": 0,
+        "type": ""
+      },
+      "sep": {
+        "customer": "",
+        "revenue": 0,
+        "type": ""
+      }
+    },
+    {
+      "id": "1762763711430",
+      "name": "藪崎智也",
+      "dept": "",
+      "updatedAt": "2025-11-10T17:35:11.395137",
+      "oct": {
+        "customer": "Me",
+        "revenue": 500000,
+        "type": "常駐"
+      },
+      "nov": {
+        "customer": "Me",
+        "revenue": 500000,
+        "type": "常駐"
+      },
+      "dec": {
+        "customer": "Me",
+        "revenue": 500000,
+        "type": "常駐"
+      },
+      "jan": {
+        "customer": "",
+        "revenue": 0,
+        "type": ""
+      },
+      "feb": {
+        "customer": "",
+        "revenue": 0,
+        "type": ""
+      },
+      "mar": {
+        "customer": "",
+        "revenue": 0,
+        "type": ""
+      },
+      "apr": {
+        "customer": "",
+        "revenue": 0,
+        "type": ""
+      },
+      "may": {
+        "customer": "",
+        "revenue": 0,
+        "type": ""
+      },
+      "jun": {
+        "customer": "",
+        "revenue": 0,
+        "type": ""
+      },
+      "jul": {
+        "customer": "",
+        "revenue": 0,
+        "type": ""
+      },
+      "aug": {
+        "customer": "",
+        "revenue": 0,
+        "type": ""
+      },
+      "sep": {
+        "customer": "",
+        "revenue": 0,
+        "type": ""
+      }
+    },
+    {
+      "id": "1762763711432",
+      "name": "杉山輝樹",
+      "dept": "",
+      "updatedAt": "2025-11-10T17:35:11.395137",
+      "oct": {
+        "customer": "SCC",
+        "revenue": 1000000,
+        "type": "常駐"
+      },
+      "nov": {
+        "customer": "SCC",
+        "revenue": 1000000,
+        "type": "請負"
+      },
+      "dec": {
+        "customer": "SCC",
+        "revenue": 1000000,
+        "type": "請負"
+      },
+      "jan": {
+        "customer": "",
+        "revenue": 0,
+        "type": ""
+      },
+      "feb": {
+        "customer": "",
+        "revenue": 0,
+        "type": ""
+      },
+      "mar": {
+        "customer": "",
+        "revenue": 0,
+        "type": ""
+      },
+      "apr": {
+        "customer": "",
+        "revenue": 0,
+        "type": ""
+      },
+      "may": {
+        "customer": "",
+        "revenue": 0,
+        "type": ""
+      },
+      "jun": {
+        "customer": "",
+        "revenue": 0,
+        "type": ""
+      },
+      "jul": {
+        "customer": "",
+        "revenue": 0,
+        "type": ""
+      },
+      "aug": {
+        "customer": "",
+        "revenue": 0,
+        "type": ""
+      },
+      "sep": {
+        "customer": "",
+        "revenue": 0,
+        "type": ""
+      }
+    },
+    {
+      "id": "1762763711433",
+      "name": "稲葉光里",
+      "dept": "",
+      "updatedAt": "2025-11-10T17:35:11.395137",
+      "oct": {
+        "customer": "SCC",
+        "revenue": 560000,
+        "type": "常駐"
+      },
+      "nov": {
+        "customer": "SCC",
+        "revenue": 560000,
+        "type": "常駐"
+      },
+      "dec": {
+        "customer": "SCC",
+        "revenue": 560000,
+        "type": "常駐"
+      },
+      "jan": {
+        "customer": "",
+        "revenue": 0,
+        "type": ""
+      },
+      "feb": {
+        "customer": "",
+        "revenue": 0,
+        "type": ""
+      },
+      "mar": {
+        "customer": "",
+        "revenue": 0,
+        "type": ""
+      },
+      "apr": {
+        "customer": "",
+        "revenue": 0,
+        "type": ""
+      },
+      "may": {
+        "customer": "",
+        "revenue": 0,
+        "type": ""
+      },
+      "jun": {
+        "customer": "",
+        "revenue": 0,
+        "type": ""
+      },
+      "jul": {
+        "customer": "",
+        "revenue": 0,
+        "type": ""
+      },
+      "aug": {
+        "customer": "",
+        "revenue": 0,
+        "type": ""
+      },
+      "sep": {
+        "customer": "",
+        "revenue": 0,
+        "type": ""
+      }
+    },
+    {
+      "id": "1762763711435",
+      "name": "望月幸治",
+      "dept": "",
+      "updatedAt": "2025-11-10T17:35:11.395137",
+      "oct": {
+        "customer": "CW",
+        "revenue": 760000,
+        "type": "常駐"
+      },
+      "nov": {
+        "customer": "CW",
+        "revenue": 760000,
+        "type": "請負"
+      },
+      "dec": {
+        "customer": "CW",
+        "revenue": 760000,
+        "type": "請負"
+      },
+      "jan": {
+        "customer": "",
+        "revenue": 0,
+        "type": ""
+      },
+      "feb": {
+        "customer": "",
+        "revenue": 0,
+        "type": ""
+      },
+      "mar": {
+        "customer": "",
+        "revenue": 0,
+        "type": ""
+      },
+      "apr": {
+        "customer": "",
+        "revenue": 0,
+        "type": ""
+      },
+      "may": {
+        "customer": "",
+        "revenue": 0,
+        "type": ""
+      },
+      "jun": {
+        "customer": "",
+        "revenue": 0,
+        "type": ""
+      },
+      "jul": {
+        "customer": "",
+        "revenue": 0,
+        "type": ""
+      },
+      "aug": {
+        "customer": "",
+        "revenue": 0,
+        "type": ""
+      },
+      "sep": {
+        "customer": "",
+        "revenue": 0,
+        "type": ""
+      }
+    },
+    {
+      "id": "1762763711436",
+      "name": "大塚恵美",
+      "dept": "",
+      "updatedAt": "2025-11-10T17:35:11.395137",
+      "oct": {
+        "customer": "CW",
+        "revenue": 700000,
+        "type": "常駐"
+      },
+      "nov": {
+        "customer": "CW",
+        "revenue": 700000,
+        "type": "請負"
+      },
+      "dec": {
+        "customer": "CW",
+        "revenue": 700000,
+        "type": "請負"
+      },
+      "jan": {
+        "customer": "",
+        "revenue": 0,
+        "type": ""
+      },
+      "feb": {
+        "customer": "",
+        "revenue": 0,
+        "type": ""
+      },
+      "mar": {
+        "customer": "",
+        "revenue": 0,
+        "type": ""
+      },
+      "apr": {
+        "customer": "",
+        "revenue": 0,
+        "type": ""
+      },
+      "may": {
+        "customer": "",
+        "revenue": 0,
+        "type": ""
+      },
+      "jun": {
+        "customer": "",
+        "revenue": 0,
+        "type": ""
+      },
+      "jul": {
+        "customer": "",
+        "revenue": 0,
+        "type": ""
+      },
+      "aug": {
+        "customer": "",
+        "revenue": 0,
+        "type": ""
+      },
+      "sep": {
+        "customer": "",
+        "revenue": 0,
+        "type": ""
+      }
+    },
+    {
+      "id": "1762763711438",
+      "name": "坂倉和希",
+      "dept": "",
+      "updatedAt": "2025-11-10T17:35:11.395137",
+      "oct": {
+        "customer": "ADT",
+        "revenue": 500000,
+        "type": "常駐"
+      },
+      "nov": {
+        "customer": "ADT",
+        "revenue": 500000,
+        "type": "請負"
+      },
+      "dec": {
+        "customer": "ADT",
+        "revenue": 500000,
+        "type": "請負"
+      },
+      "jan": {
+        "customer": "",
+        "revenue": 0,
+        "type": ""
+      },
+      "feb": {
+        "customer": "",
+        "revenue": 0,
+        "type": ""
+      },
+      "mar": {
+        "customer": "",
+        "revenue": 0,
+        "type": ""
+      },
+      "apr": {
+        "customer": "",
+        "revenue": 0,
+        "type": ""
+      },
+      "may": {
+        "customer": "",
+        "revenue": 0,
+        "type": ""
+      },
+      "jun": {
+        "customer": "",
+        "revenue": 0,
+        "type": ""
+      },
+      "jul": {
+        "customer": "",
+        "revenue": 0,
+        "type": ""
+      },
+      "aug": {
+        "customer": "",
+        "revenue": 0,
+        "type": ""
+      },
+      "sep": {
+        "customer": "",
+        "revenue": 0,
+        "type": ""
+      }
+    },
+    {
+      "id": "1762763711444",
+      "name": "酒井隆輔",
+      "dept": "",
+      "updatedAt": "2025-11-10T17:35:11.395137",
+      "oct": {
+        "customer": "SDC",
+        "revenue": 680000,
+        "type": "請負"
+      },
+      "nov": {
+        "customer": "SDC",
+        "revenue": 680000,
+        "type": "請負"
+      },
+      "dec": {
+        "customer": "SDC",
+        "revenue": 680000,
+        "type": "請負"
+      },
+      "jan": {
+        "customer": "",
+        "revenue": 0,
+        "type": ""
+      },
+      "feb": {
+        "customer": "",
+        "revenue": 0,
+        "type": ""
+      },
+      "mar": {
+        "customer": "",
+        "revenue": 0,
+        "type": ""
+      },
+      "apr": {
+        "customer": "",
+        "revenue": 0,
+        "type": ""
+      },
+      "may": {
+        "customer": "",
+        "revenue": 0,
+        "type": ""
+      },
+      "jun": {
+        "customer": "",
+        "revenue": 0,
+        "type": ""
+      },
+      "jul": {
+        "customer": "",
+        "revenue": 0,
+        "type": ""
+      },
+      "aug": {
+        "customer": "",
+        "revenue": 0,
+        "type": ""
+      },
+      "sep": {
+        "customer": "",
+        "revenue": 0,
+        "type": ""
+      }
+    },
+    {
+      "id": "1762763711445",
+      "name": "稼農俊広",
+      "dept": "",
+      "updatedAt": "2025-11-10T17:35:11.395137",
+      "oct": {
+        "customer": "SCC",
+        "revenue": 700000,
+        "type": "請負"
+      },
+      "nov": {
+        "customer": "SCC",
+        "revenue": 700000,
+        "type": "請負"
+      },
+      "dec": {
+        "customer": "",
+        "revenue": 0,
+        "type": ""
+      },
+      "jan": {
+        "customer": "",
+        "revenue": 0,
+        "type": ""
+      },
+      "feb": {
+        "customer": "",
+        "revenue": 0,
+        "type": ""
+      },
+      "mar": {
+        "customer": "",
+        "revenue": 0,
+        "type": ""
+      },
+      "apr": {
+        "customer": "",
+        "revenue": 0,
+        "type": ""
+      },
+      "may": {
+        "customer": "",
+        "revenue": 0,
+        "type": ""
+      },
+      "jun": {
+        "customer": "",
+        "revenue": 0,
+        "type": ""
+      },
+      "jul": {
+        "customer": "",
+        "revenue": 0,
+        "type": ""
+      },
+      "aug": {
+        "customer": "",
+        "revenue": 0,
+        "type": ""
+      },
+      "sep": {
+        "customer": "",
+        "revenue": 0,
+        "type": ""
+      }
+    },
+    {
+      "id": "1762763711447",
+      "name": "田沢空",
+      "dept": "",
+      "updatedAt": "2025-11-10T17:35:11.395137",
+      "oct": {
+        "customer": "SDC",
+        "revenue": 500000,
+        "type": "請負"
+      },
+      "nov": {
+        "customer": "SDC",
+        "revenue": 500000,
+        "type": "請負"
+      },
+      "dec": {
+        "customer": "SDC",
+        "revenue": 500000,
+        "type": "請負"
+      },
+      "jan": {
+        "customer": "",
+        "revenue": 0,
+        "type": ""
+      },
+      "feb": {
+        "customer": "",
+        "revenue": 0,
+        "type": ""
+      },
+      "mar": {
+        "customer": "",
+        "revenue": 0,
+        "type": ""
+      },
+      "apr": {
+        "customer": "",
+        "revenue": 0,
+        "type": ""
+      },
+      "may": {
+        "customer": "",
+        "revenue": 0,
+        "type": ""
+      },
+      "jun": {
+        "customer": "",
+        "revenue": 0,
+        "type": ""
+      },
+      "jul": {
+        "customer": "",
+        "revenue": 0,
+        "type": ""
+      },
+      "aug": {
+        "customer": "",
+        "revenue": 0,
+        "type": ""
+      },
+      "sep": {
+        "customer": "",
+        "revenue": 0,
+        "type": ""
+      }
+    },
+    {
+      "id": "1762763711454",
+      "name": "ITI山本",
+      "dept": "",
+      "updatedAt": "2025-11-10T17:35:11.395137",
+      "oct": {
+        "customer": "SCC",
+        "revenue": 710000,
+        "type": "請負"
+      },
+      "nov": {
+        "customer": "SCC",
+        "revenue": 710000,
+        "type": "請負"
+      },
+      "dec": {
+        "customer": "SCC",
+        "revenue": 710000,
+        "type": "請負"
+      },
+      "jan": {
+        "customer": "",
+        "revenue": 0,
+        "type": ""
+      },
+      "feb": {
+        "customer": "",
+        "revenue": 0,
+        "type": ""
+      },
+      "mar": {
+        "customer": "",
+        "revenue": 0,
+        "type": ""
+      },
+      "apr": {
+        "customer": "",
+        "revenue": 0,
+        "type": ""
+      },
+      "may": {
+        "customer": "",
+        "revenue": 0,
+        "type": ""
+      },
+      "jun": {
+        "customer": "",
+        "revenue": 0,
+        "type": ""
+      },
+      "jul": {
+        "customer": "",
+        "revenue": 0,
+        "type": ""
+      },
+      "aug": {
+        "customer": "",
+        "revenue": 0,
+        "type": ""
+      },
+      "sep": {
+        "customer": "",
+        "revenue": 0,
+        "type": ""
+      }
+    },
+    {
+      "id": "1762763711455",
+      "name": "ITI秋山",
+      "dept": "",
+      "updatedAt": "2025-11-10T17:35:11.395137",
+      "oct": {
+        "customer": "SCC",
+        "revenue": 700000,
+        "type": "請負"
+      },
+      "nov": {
+        "customer": "SCC",
+        "revenue": 700000,
+        "type": "請負"
+      },
+      "dec": {
+        "customer": "",
+        "revenue": 0,
+        "type": ""
+      },
+      "jan": {
+        "customer": "",
+        "revenue": 0,
+        "type": ""
+      },
+      "feb": {
+        "customer": "",
+        "revenue": 0,
+        "type": ""
+      },
+      "mar": {
+        "customer": "",
+        "revenue": 0,
+        "type": ""
+      },
+      "apr": {
+        "customer": "",
+        "revenue": 0,
+        "type": ""
+      },
+      "may": {
+        "customer": "",
+        "revenue": 0,
+        "type": ""
+      },
+      "jun": {
+        "customer": "",
+        "revenue": 0,
+        "type": ""
+      },
+      "jul": {
+        "customer": "",
+        "revenue": 0,
+        "type": ""
+      },
+      "aug": {
+        "customer": "",
+        "revenue": 0,
+        "type": ""
+      },
+      "sep": {
+        "customer": "",
+        "revenue": 0,
+        "type": ""
+      }
+    },
+    {
+      "id": "1762763711456",
+      "name": "SS齋藤",
+      "dept": "",
+      "updatedAt": "2025-11-10T17:35:11.395137",
+      "oct": {
+        "customer": "SCC",
+        "revenue": 720000,
+        "type": "請負"
+      },
+      "nov": {
+        "customer": "SCC",
+        "revenue": 720000,
+        "type": "請負"
+      },
+      "dec": {
+        "customer": "SCC",
+        "revenue": 720000,
+        "type": "請負"
+      },
+      "jan": {
+        "customer": "",
+        "revenue": 0,
+        "type": ""
+      },
+      "feb": {
+        "customer": "",
+        "revenue": 0,
+        "type": ""
+      },
+      "mar": {
+        "customer": "",
+        "revenue": 0,
+        "type": ""
+      },
+      "apr": {
+        "customer": "",
+        "revenue": 0,
+        "type": ""
+      },
+      "may": {
+        "customer": "",
+        "revenue": 0,
+        "type": ""
+      },
+      "jun": {
+        "customer": "",
+        "revenue": 0,
+        "type": ""
+      },
+      "jul": {
+        "customer": "",
+        "revenue": 0,
+        "type": ""
+      },
+      "aug": {
+        "customer": "",
+        "revenue": 0,
+        "type": ""
+      },
+      "sep": {
+        "customer": "",
+        "revenue": 0,
+        "type": ""
+      }
+    },
+    {
+      "id": "1762763711457",
+      "name": "SS芹川",
+      "dept": "",
+      "updatedAt": "2025-11-10T17:35:11.395137",
+      "oct": {
+        "customer": "SCC",
+        "revenue": 710000,
+        "type": "請負"
+      },
+      "nov": {
+        "customer": "SCC",
+        "revenue": 710000,
+        "type": "請負"
+      },
+      "dec": {
+        "customer": "SCC",
+        "revenue": 710000,
+        "type": "請負"
+      },
+      "jan": {
+        "customer": "",
+        "revenue": 0,
+        "type": ""
+      },
+      "feb": {
+        "customer": "",
+        "revenue": 0,
+        "type": ""
+      },
+      "mar": {
+        "customer": "",
+        "revenue": 0,
+        "type": ""
+      },
+      "apr": {
+        "customer": "",
+        "revenue": 0,
+        "type": ""
+      },
+      "may": {
+        "customer": "",
+        "revenue": 0,
+        "type": ""
+      },
+      "jun": {
+        "customer": "",
+        "revenue": 0,
+        "type": ""
+      },
+      "jul": {
+        "customer": "",
+        "revenue": 0,
+        "type": ""
+      },
+      "aug": {
+        "customer": "",
+        "revenue": 0,
+        "type": ""
+      },
+      "sep": {
+        "customer": "",
+        "revenue": 0,
+        "type": ""
+      }
+    },
+    {
+      "id": "1762763711458",
+      "name": "ITS杉村",
+      "dept": "",
+      "updatedAt": "2025-11-10T17:35:11.395137",
+      "oct": {
+        "customer": "SBS",
+        "revenue": 635000,
+        "type": "常駐"
+      },
+      "nov": {
+        "customer": "SBS",
+        "revenue": 635000,
+        "type": "常駐"
+      },
+      "dec": {
+        "customer": "SBS",
+        "revenue": 635000,
+        "type": "常駐"
+      },
+      "jan": {
+        "customer": "",
+        "revenue": 0,
+        "type": ""
+      },
+      "feb": {
+        "customer": "",
+        "revenue": 0,
+        "type": ""
+      },
+      "mar": {
+        "customer": "",
+        "revenue": 0,
+        "type": ""
+      },
+      "apr": {
+        "customer": "",
+        "revenue": 0,
+        "type": ""
+      },
+      "may": {
+        "customer": "",
+        "revenue": 0,
+        "type": ""
+      },
+      "jun": {
+        "customer": "",
+        "revenue": 0,
+        "type": ""
+      },
+      "jul": {
+        "customer": "",
+        "revenue": 0,
+        "type": ""
+      },
+      "aug": {
+        "customer": "",
+        "revenue": 0,
+        "type": ""
+      },
+      "sep": {
+        "customer": "",
+        "revenue": 0,
+        "type": ""
+      }
+    },
+    {
+      "id": "1762763711459",
+      "name": "DSC高山",
+      "dept": "",
+      "updatedAt": "2025-11-10T17:35:11.395137",
+      "oct": {
+        "customer": "電翔",
+        "revenue": 600000,
+        "type": "常駐"
+      },
+      "nov": {
+        "customer": "電翔",
+        "revenue": 600000,
+        "type": "常駐"
+      },
+      "dec": {
+        "customer": "電翔",
+        "revenue": 600000,
+        "type": "常駐"
+      },
+      "jan": {
+        "customer": "",
+        "revenue": 0,
+        "type": ""
+      },
+      "feb": {
+        "customer": "",
+        "revenue": 0,
+        "type": ""
+      },
+      "mar": {
+        "customer": "",
+        "revenue": 0,
+        "type": ""
+      },
+      "apr": {
+        "customer": "",
+        "revenue": 0,
+        "type": ""
+      },
+      "may": {
+        "customer": "",
+        "revenue": 0,
+        "type": ""
+      },
+      "jun": {
+        "customer": "",
+        "revenue": 0,
+        "type": ""
+      },
+      "jul": {
+        "customer": "",
+        "revenue": 0,
+        "type": ""
+      },
+      "aug": {
+        "customer": "",
+        "revenue": 0,
+        "type": ""
+      },
+      "sep": {
+        "customer": "",
+        "revenue": 0,
+        "type": ""
+      }
+    },
+    {
+      "id": "1762763711460",
+      "name": "DSC渡邊",
+      "dept": "",
+      "updatedAt": "2025-11-10T17:35:11.395137",
+      "oct": {
+        "customer": "電翔",
+        "revenue": 600000,
+        "type": "常駐"
+      },
+      "nov": {
+        "customer": "電翔",
+        "revenue": 600000,
+        "type": "常駐"
+      },
+      "dec": {
+        "customer": "電翔",
+        "revenue": 600000,
+        "type": "常駐"
+      },
+      "jan": {
+        "customer": "",
+        "revenue": 0,
+        "type": ""
+      },
+      "feb": {
+        "customer": "",
+        "revenue": 0,
+        "type": ""
+      },
+      "mar": {
+        "customer": "",
+        "revenue": 0,
+        "type": ""
+      },
+      "apr": {
+        "customer": "",
+        "revenue": 0,
+        "type": ""
+      },
+      "may": {
+        "customer": "",
+        "revenue": 0,
+        "type": ""
+      },
+      "jun": {
+        "customer": "",
+        "revenue": 0,
+        "type": ""
+      },
+      "jul": {
+        "customer": "",
+        "revenue": 0,
+        "type": ""
+      },
+      "aug": {
+        "customer": "",
+        "revenue": 0,
+        "type": ""
+      },
+      "sep": {
+        "customer": "",
+        "revenue": 0,
+        "type": ""
+      }
+    },
+    {
+      "id": "1762763711461",
+      "name": "ALA荒川",
+      "dept": "",
+      "updatedAt": "2025-11-10T17:35:11.395137",
+      "oct": {
+        "customer": "SCC",
+        "revenue": 700000,
+        "type": "常駐"
+      },
+      "nov": {
+        "customer": "SCC",
+        "revenue": 700000,
+        "type": "常駐"
+      },
+      "dec": {
+        "customer": "SCC",
+        "revenue": 700000,
+        "type": "常駐"
+      },
+      "jan": {
+        "customer": "",
+        "revenue": 0,
+        "type": ""
+      },
+      "feb": {
+        "customer": "",
+        "revenue": 0,
+        "type": ""
+      },
+      "mar": {
+        "customer": "",
+        "revenue": 0,
+        "type": ""
+      },
+      "apr": {
+        "customer": "",
+        "revenue": 0,
+        "type": ""
+      },
+      "may": {
+        "customer": "",
+        "revenue": 0,
+        "type": ""
+      },
+      "jun": {
+        "customer": "",
+        "revenue": 0,
+        "type": ""
+      },
+      "jul": {
+        "customer": "",
+        "revenue": 0,
+        "type": ""
+      },
+      "aug": {
+        "customer": "",
+        "revenue": 0,
+        "type": ""
+      },
+      "sep": {
+        "customer": "",
+        "revenue": 0,
+        "type": ""
+      }
+    },
+    {
+      "id": "1762763711462",
+      "name": "ALA榎本",
+      "dept": "",
+      "updatedAt": "2025-11-10T17:35:11.395137",
+      "oct": {
+        "customer": "SCC",
+        "revenue": 620000,
+        "type": "常駐"
+      },
+      "nov": {
+        "customer": "SCC",
+        "revenue": 620000,
+        "type": "常駐"
+      },
+      "dec": {
+        "customer": "SCC",
+        "revenue": 620000,
+        "type": "常駐"
+      },
+      "jan": {
+        "customer": "",
+        "revenue": 0,
+        "type": ""
+      },
+      "feb": {
+        "customer": "",
+        "revenue": 0,
+        "type": ""
+      },
+      "mar": {
+        "customer": "",
+        "revenue": 0,
+        "type": ""
+      },
+      "apr": {
+        "customer": "",
+        "revenue": 0,
+        "type": ""
+      },
+      "may": {
+        "customer": "",
+        "revenue": 0,
+        "type": ""
+      },
+      "jun": {
+        "customer": "",
+        "revenue": 0,
+        "type": ""
+      },
+      "jul": {
+        "customer": "",
+        "revenue": 0,
+        "type": ""
+      },
+      "aug": {
+        "customer": "",
+        "revenue": 0,
+        "type": ""
+      },
+      "sep": {
+        "customer": "",
+        "revenue": 0,
+        "type": ""
+      }
+    },
+    {
+      "id": "1762763711466",
+      "name": "F藤森",
+      "dept": "",
+      "updatedAt": "2025-11-10T17:35:11.395137",
+      "oct": {
+        "customer": "SCC",
+        "revenue": 600000,
+        "type": "請負"
+      },
+      "nov": {
+        "customer": "SCC",
+        "revenue": 600000,
+        "type": "請負"
+      },
+      "dec": {
+        "customer": "SCC",
+        "revenue": 600000,
+        "type": "請負"
+      },
+      "jan": {
+        "customer": "",
+        "revenue": 0,
+        "type": ""
+      },
+      "feb": {
+        "customer": "",
+        "revenue": 0,
+        "type": ""
+      },
+      "mar": {
+        "customer": "",
+        "revenue": 0,
+        "type": ""
+      },
+      "apr": {
+        "customer": "",
+        "revenue": 0,
+        "type": ""
+      },
+      "may": {
+        "customer": "",
+        "revenue": 0,
+        "type": ""
+      },
+      "jun": {
+        "customer": "",
+        "revenue": 0,
+        "type": ""
+      },
+      "jul": {
+        "customer": "",
+        "revenue": 0,
+        "type": ""
+      },
+      "aug": {
+        "customer": "",
+        "revenue": 0,
+        "type": ""
+      },
+      "sep": {
+        "customer": "",
+        "revenue": 0,
+        "type": ""
+      }
+    },
+    {
+      "id": "1762763711467",
+      "name": "F榊原",
+      "dept": "",
+      "updatedAt": "2025-11-10T17:35:11.395137",
+      "oct": {
+        "customer": "SCC",
+        "revenue": 550000,
+        "type": "請負"
+      },
+      "nov": {
+        "customer": "SCC",
+        "revenue": 550000,
+        "type": "請負"
+      },
+      "dec": {
+        "customer": "SCC",
+        "revenue": 550000,
+        "type": "請負"
+      },
+      "jan": {
+        "customer": "",
+        "revenue": 0,
+        "type": ""
+      },
+      "feb": {
+        "customer": "",
+        "revenue": 0,
+        "type": ""
+      },
+      "mar": {
+        "customer": "",
+        "revenue": 0,
+        "type": ""
+      },
+      "apr": {
+        "customer": "",
+        "revenue": 0,
+        "type": ""
+      },
+      "may": {
+        "customer": "",
+        "revenue": 0,
+        "type": ""
+      },
+      "jun": {
+        "customer": "",
+        "revenue": 0,
+        "type": ""
+      },
+      "jul": {
+        "customer": "",
+        "revenue": 0,
+        "type": ""
+      },
+      "aug": {
+        "customer": "",
+        "revenue": 0,
+        "type": ""
+      },
+      "sep": {
+        "customer": "",
+        "revenue": 0,
+        "type": ""
+      }
+    },
+    {
+      "id": "1762763711468",
+      "name": "SS森田",
+      "dept": "",
+      "updatedAt": "2025-11-10T17:35:11.395137",
+      "oct": {
+        "customer": "SCC",
+        "revenue": 575000,
+        "type": "請負"
+      },
+      "nov": {
+        "customer": "SCC",
+        "revenue": 575000,
+        "type": "請負"
+      },
+      "dec": {
+        "customer": "SCC",
+        "revenue": 575000,
+        "type": "請負"
+      },
+      "jan": {
+        "customer": "",
+        "revenue": 0,
+        "type": ""
+      },
+      "feb": {
+        "customer": "",
+        "revenue": 0,
+        "type": ""
+      },
+      "mar": {
+        "customer": "",
+        "revenue": 0,
+        "type": ""
+      },
+      "apr": {
+        "customer": "",
+        "revenue": 0,
+        "type": ""
+      },
+      "may": {
+        "customer": "",
+        "revenue": 0,
+        "type": ""
+      },
+      "jun": {
+        "customer": "",
+        "revenue": 0,
+        "type": ""
+      },
+      "jul": {
+        "customer": "",
+        "revenue": 0,
+        "type": ""
+      },
+      "aug": {
+        "customer": "",
+        "revenue": 0,
+        "type": ""
+      },
+      "sep": {
+        "customer": "",
+        "revenue": 0,
+        "type": ""
+      }
+    },
+    {
+      "id": "1762763711469",
+      "name": "HM竹内",
+      "dept": "",
+      "updatedAt": "2025-11-10T17:35:11.395137",
+      "oct": {
+        "customer": "SST",
+        "revenue": 600000,
+        "type": "常駐"
+      },
+      "nov": {
+        "customer": "SST",
+        "revenue": 600000,
+        "type": "常駐"
+      },
+      "dec": {
+        "customer": "SST",
+        "revenue": 600000,
+        "type": "常駐"
+      },
+      "jan": {
+        "customer": "",
+        "revenue": 0,
+        "type": ""
+      },
+      "feb": {
+        "customer": "",
+        "revenue": 0,
+        "type": ""
+      },
+      "mar": {
+        "customer": "",
+        "revenue": 0,
+        "type": ""
+      },
+      "apr": {
+        "customer": "",
+        "revenue": 0,
+        "type": ""
+      },
+      "may": {
+        "customer": "",
+        "revenue": 0,
+        "type": ""
+      },
+      "jun": {
+        "customer": "",
+        "revenue": 0,
+        "type": ""
+      },
+      "jul": {
+        "customer": "",
+        "revenue": 0,
+        "type": ""
+      },
+      "aug": {
+        "customer": "",
+        "revenue": 0,
+        "type": ""
+      },
+      "sep": {
+        "customer": "",
+        "revenue": 0,
+        "type": ""
+      }
+    },
+    {
+      "id": "1762763711470",
+      "name": "HM田村",
+      "dept": "",
+      "updatedAt": "2025-11-10T17:35:11.395137",
+      "oct": {
+        "customer": "",
+        "revenue": 0,
+        "type": ""
+      },
+      "nov": {
+        "customer": "SCC",
+        "revenue": 730000,
+        "type": "請負"
+      },
+      "dec": {
+        "customer": "SCC",
+        "revenue": 730000,
+        "type": "請負"
+      },
+      "jan": {
+        "customer": "",
+        "revenue": 0,
+        "type": ""
+      },
+      "feb": {
+        "customer": "",
+        "revenue": 0,
+        "type": ""
+      },
+      "mar": {
+        "customer": "",
+        "revenue": 0,
+        "type": ""
+      },
+      "apr": {
+        "customer": "",
+        "revenue": 0,
+        "type": ""
+      },
+      "may": {
+        "customer": "",
+        "revenue": 0,
+        "type": ""
+      },
+      "jun": {
+        "customer": "",
+        "revenue": 0,
+        "type": ""
+      },
+      "jul": {
+        "customer": "",
+        "revenue": 0,
+        "type": ""
+      },
+      "aug": {
+        "customer": "",
+        "revenue": 0,
+        "type": ""
+      },
+      "sep": {
+        "customer": "",
+        "revenue": 0,
+        "type": ""
+      }
+    },
+    {
+      "id": "1762763711474",
+      "name": "XSS山原",
+      "dept": "",
+      "updatedAt": "2025-11-10T17:35:11.395137",
+      "oct": {
+        "customer": "SSS",
+        "revenue": 600000,
+        "type": "常駐"
+      },
+      "nov": {
+        "customer": "SSS",
+        "revenue": 600000,
+        "type": "常駐"
+      },
+      "dec": {
+        "customer": "SSS",
+        "revenue": 600000,
+        "type": "常駐"
+      },
+      "jan": {
+        "customer": "",
+        "revenue": 0,
+        "type": ""
+      },
+      "feb": {
+        "customer": "",
+        "revenue": 0,
+        "type": ""
+      },
+      "mar": {
+        "customer": "",
+        "revenue": 0,
+        "type": ""
+      },
+      "apr": {
+        "customer": "",
+        "revenue": 0,
+        "type": ""
+      },
+      "may": {
+        "customer": "",
+        "revenue": 0,
+        "type": ""
+      },
+      "jun": {
+        "customer": "",
+        "revenue": 0,
+        "type": ""
+      },
+      "jul": {
+        "customer": "",
+        "revenue": 0,
+        "type": ""
+      },
+      "aug": {
+        "customer": "",
+        "revenue": 0,
+        "type": ""
+      },
+      "sep": {
+        "customer": "",
+        "revenue": 0,
+        "type": ""
+      }
+    },
+    {
+      "id": "1762763711476",
+      "name": "デイトナ",
+      "dept": "",
+      "updatedAt": "2025-11-10T17:35:11.395137",
+      "oct": {
+        "customer": "",
+        "revenue": 0,
+        "type": ""
+      },
+      "nov": {
+        "customer": "",
+        "revenue": 0,
+        "type": ""
+      },
+      "dec": {
+        "customer": "SCC",
+        "revenue": 700000,
+        "type": "請負"
+      },
+      "jan": {
+        "customer": "",
+        "revenue": 0,
+        "type": ""
+      },
+      "feb": {
+        "customer": "",
+        "revenue": 0,
+        "type": ""
+      },
+      "mar": {
+        "customer": "",
+        "revenue": 0,
+        "type": ""
+      },
+      "apr": {
+        "customer": "",
+        "revenue": 0,
+        "type": ""
+      },
+      "may": {
+        "customer": "",
+        "revenue": 0,
+        "type": ""
+      },
+      "jun": {
+        "customer": "",
+        "revenue": 0,
+        "type": ""
+      },
+      "jul": {
+        "customer": "",
+        "revenue": 0,
+        "type": ""
+      },
+      "aug": {
+        "customer": "",
+        "revenue": 0,
+        "type": ""
+      },
+      "sep": {
+        "customer": "",
+        "revenue": 0,
+        "type": ""
+      }
+    },
+    {
+      "id": "1762763711477",
+      "name": "デイトナ　A",
+      "dept": "",
+      "updatedAt": "2025-11-10T17:35:11.395137",
+      "oct": {
+        "customer": "",
+        "revenue": 0,
+        "type": ""
+      },
+      "nov": {
+        "customer": "",
+        "revenue": 0,
+        "type": ""
+      },
+      "dec": {
+        "customer": "SCC",
+        "revenue": 700000,
+        "type": "請負"
+      },
+      "jan": {
+        "customer": "",
+        "revenue": 0,
+        "type": ""
+      },
+      "feb": {
+        "customer": "",
+        "revenue": 0,
+        "type": ""
+      },
+      "mar": {
+        "customer": "",
+        "revenue": 0,
+        "type": ""
+      },
+      "apr": {
+        "customer": "",
+        "revenue": 0,
+        "type": ""
+      },
+      "may": {
+        "customer": "",
+        "revenue": 0,
+        "type": ""
+      },
+      "jun": {
+        "customer": "",
+        "revenue": 0,
+        "type": ""
+      },
+      "jul": {
+        "customer": "",
+        "revenue": 0,
+        "type": ""
+      },
+      "aug": {
+        "customer": "",
+        "revenue": 0,
+        "type": ""
+      },
+      "sep": {
+        "customer": "",
+        "revenue": 0,
+        "type": ""
+      }
+    },
+    {
+      "id": "1762763711478",
+      "name": "池上通信機 ALA高塚",
+      "dept": "",
+      "updatedAt": "2025-11-10T17:35:11.395137",
+      "oct": {
+        "customer": "SCC",
+        "revenue": 650000,
+        "type": "請負"
+      },
+      "nov": {
+        "customer": "SCC",
+        "revenue": 650000,
+        "type": "請負"
+      },
+      "dec": {
+        "customer": "SCC",
+        "revenue": 650000,
+        "type": "請負"
+      },
+      "jan": {
+        "customer": "",
+        "revenue": 0,
+        "type": ""
+      },
+      "feb": {
+        "customer": "",
+        "revenue": 0,
+        "type": ""
+      },
+      "mar": {
+        "customer": "",
+        "revenue": 0,
+        "type": ""
+      },
+      "apr": {
+        "customer": "",
+        "revenue": 0,
+        "type": ""
+      },
+      "may": {
+        "customer": "",
+        "revenue": 0,
+        "type": ""
+      },
+      "jun": {
+        "customer": "",
+        "revenue": 0,
+        "type": ""
+      },
+      "jul": {
+        "customer": "",
+        "revenue": 0,
+        "type": ""
+      },
+      "aug": {
+        "customer": "",
+        "revenue": 0,
+        "type": ""
+      },
+      "sep": {
+        "customer": "",
+        "revenue": 0,
+        "type": ""
+      }
+    },
+    {
+      "id": "1762763711479",
+      "name": "池上通信機",
+      "dept": "",
+      "updatedAt": "2025-11-10T17:35:11.395137",
+      "oct": {
+        "customer": "",
+        "revenue": 0,
+        "type": ""
+      },
+      "nov": {
+        "customer": "SCC",
+        "revenue": 650000,
+        "type": "請負"
+      },
+      "dec": {
+        "customer": "SCC",
+        "revenue": 650000,
+        "type": "請負"
+      },
+      "jan": {
+        "customer": "",
+        "revenue": 0,
+        "type": ""
+      },
+      "feb": {
+        "customer": "",
+        "revenue": 0,
+        "type": ""
+      },
+      "mar": {
+        "customer": "",
+        "revenue": 0,
+        "type": ""
+      },
+      "apr": {
+        "customer": "",
+        "revenue": 0,
+        "type": ""
+      },
+      "may": {
+        "customer": "",
+        "revenue": 0,
+        "type": ""
+      },
+      "jun": {
+        "customer": "",
+        "revenue": 0,
+        "type": ""
+      },
+      "jul": {
+        "customer": "",
+        "revenue": 0,
+        "type": ""
+      },
+      "aug": {
+        "customer": "",
+        "revenue": 0,
+        "type": ""
+      },
+      "sep": {
+        "customer": "",
+        "revenue": 0,
+        "type": ""
+      }
+    },
+    {
+      "id": "1762763711500",
+      "name": "社員",
+      "dept": "",
+      "updatedAt": "2025-11-10T17:35:11.395137",
+      "oct": {
+        "customer": "",
+        "revenue": 7777000,
+        "type": "－"
+      },
+      "nov": {
+        "customer": "",
+        "revenue": 7777000,
+        "type": "－"
+      },
+      "dec": {
+        "customer": "",
+        "revenue": 7777000,
+        "type": "－"
+      },
+      "jan": {
+        "customer": "",
+        "revenue": 0,
+        "type": "－"
+      },
+      "feb": {
+        "customer": "",
+        "revenue": 0,
+        "type": "－"
+      },
+      "mar": {
+        "customer": "",
+        "revenue": 0,
+        "type": "－"
+      },
+      "apr": {
+        "customer": "",
+        "revenue": 0,
+        "type": "－"
+      },
+      "may": {
+        "customer": "",
+        "revenue": 0,
+        "type": "－"
+      },
+      "jun": {
+        "customer": "",
+        "revenue": 0,
+        "type": "－"
+      },
+      "jul": {
+        "customer": "",
+        "revenue": 0,
+        "type": "－"
+      },
+      "aug": {
+        "customer": "",
+        "revenue": 0,
+        "type": "－"
+      },
+      "sep": {
+        "customer": "",
+        "revenue": 0,
+        "type": "－"
+      }
+    },
+    {
+      "id": "1762763711501",
+      "name": "BP",
+      "dept": "",
+      "updatedAt": "2025-11-10T17:35:11.395137",
+      "oct": {
+        "customer": "",
+        "revenue": 3645000,
+        "type": "－"
+      },
+      "nov": {
+        "customer": "",
+        "revenue": 3645000,
+        "type": "－"
+      },
+      "dec": {
+        "customer": "",
+        "revenue": 3645000,
+        "type": "－"
+      },
+      "jan": {
+        "customer": "",
+        "revenue": 0,
+        "type": "－"
+      },
+      "feb": {
+        "customer": "",
+        "revenue": 0,
+        "type": "－"
+      },
+      "mar": {
+        "customer": "",
+        "revenue": 0,
+        "type": "－"
+      },
+      "apr": {
+        "customer": "",
+        "revenue": 0,
+        "type": "－"
+      },
+      "may": {
+        "customer": "",
+        "revenue": 0,
+        "type": "－"
+      },
+      "jun": {
+        "customer": "",
+        "revenue": 0,
+        "type": "－"
+      },
+      "jul": {
+        "customer": "",
+        "revenue": 0,
+        "type": "－"
+      },
+      "aug": {
+        "customer": "",
+        "revenue": 0,
+        "type": "－"
+      },
+      "sep": {
+        "customer": "",
+        "revenue": 0,
+        "type": "－"
+      }
+    },
+    {
+      "id": "1762763711502",
+      "name": "合計",
+      "dept": "",
+      "updatedAt": "2025-11-10T17:35:11.395137",
+      "oct": {
+        "customer": "",
+        "revenue": 11422000,
+        "type": "－"
+      },
+      "nov": {
+        "customer": "",
+        "revenue": 11422000,
+        "type": "－"
+      },
+      "dec": {
+        "customer": "",
+        "revenue": 11422000,
+        "type": "－"
+      },
+      "jan": {
+        "customer": "",
+        "revenue": 0,
+        "type": "－"
+      },
+      "feb": {
+        "customer": "",
+        "revenue": 0,
+        "type": "－"
+      },
+      "mar": {
+        "customer": "",
+        "revenue": 0,
+        "type": "－"
+      },
+      "apr": {
+        "customer": "",
+        "revenue": 0,
+        "type": "－"
+      },
+      "may": {
+        "customer": "",
+        "revenue": 0,
+        "type": "－"
+      },
+      "jun": {
+        "customer": "",
+        "revenue": 0,
+        "type": "－"
+      },
+      "jul": {
+        "customer": "",
+        "revenue": 0,
+        "type": "－"
+      },
+      "aug": {
+        "customer": "",
+        "revenue": 0,
+        "type": "－"
+      },
+      "sep": {
+        "customer": "",
+        "revenue": 0,
+        "type": "－"
+      }
+    },
+    {
+      "id": "1762763711503",
+      "name": "社員",
+      "dept": "",
+      "updatedAt": "2025-11-10T17:35:11.395137",
+      "oct": {
+        "customer": "",
+        "revenue": 7777000,
+        "type": "－"
+      },
+      "nov": {
+        "customer": "",
+        "revenue": 15554000,
+        "type": "－"
+      },
+      "dec": {
+        "customer": "",
+        "revenue": 23331000,
+        "type": "－"
+      },
+      "jan": {
+        "customer": "",
+        "revenue": 23331000,
+        "type": "－"
+      },
+      "feb": {
+        "customer": "",
+        "revenue": 23331000,
+        "type": "－"
+      },
+      "mar": {
+        "customer": "",
+        "revenue": 23331000,
+        "type": "－"
+      },
+      "apr": {
+        "customer": "",
+        "revenue": 23331000,
+        "type": "－"
+      },
+      "may": {
+        "customer": "",
+        "revenue": 23331000,
+        "type": "－"
+      },
+      "jun": {
+        "customer": "",
+        "revenue": 23331000,
+        "type": "－"
+      },
+      "jul": {
+        "customer": "",
+        "revenue": 23331000,
+        "type": "－"
+      },
+      "aug": {
+        "customer": "",
+        "revenue": 23331000,
+        "type": "－"
+      },
+      "sep": {
+        "customer": "",
+        "revenue": 23331000,
+        "type": "－"
+      }
+    },
+    {
+      "id": "1762763711504",
+      "name": "BP",
+      "dept": "",
+      "updatedAt": "2025-11-10T17:35:11.395137",
+      "oct": {
+        "customer": "",
+        "revenue": 3645000,
+        "type": "－"
+      },
+      "nov": {
+        "customer": "",
+        "revenue": 7290000,
+        "type": "－"
+      },
+      "dec": {
+        "customer": "",
+        "revenue": 10935000,
+        "type": "－"
+      },
+      "jan": {
+        "customer": "",
+        "revenue": 10935000,
+        "type": "－"
+      },
+      "feb": {
+        "customer": "",
+        "revenue": 10935000,
+        "type": "－"
+      },
+      "mar": {
+        "customer": "",
+        "revenue": 10935000,
+        "type": "－"
+      },
+      "apr": {
+        "customer": "",
+        "revenue": 10935000,
+        "type": "－"
+      },
+      "may": {
+        "customer": "",
+        "revenue": 10935000,
+        "type": "－"
+      },
+      "jun": {
+        "customer": "",
+        "revenue": 10935000,
+        "type": "－"
+      },
+      "jul": {
+        "customer": "",
+        "revenue": 10935000,
+        "type": "－"
+      },
+      "aug": {
+        "customer": "",
+        "revenue": 10935000,
+        "type": "－"
+      },
+      "sep": {
+        "customer": "",
+        "revenue": 10935000,
+        "type": "－"
+      }
+    },
+    {
+      "id": "1762763711505",
+      "name": "合計",
+      "dept": "",
+      "updatedAt": "2025-11-10T17:35:11.395137",
+      "oct": {
+        "customer": "",
+        "revenue": 11422000,
+        "type": "－"
+      },
+      "nov": {
+        "customer": "",
+        "revenue": 22844000,
+        "type": "－"
+      },
+      "dec": {
+        "customer": "",
+        "revenue": 34266000,
+        "type": "－"
+      },
+      "jan": {
+        "customer": "",
+        "revenue": 34266000,
+        "type": "－"
+      },
+      "feb": {
+        "customer": "",
+        "revenue": 34266000,
+        "type": "－"
+      },
+      "mar": {
+        "customer": "",
+        "revenue": 34266000,
+        "type": "－"
+      },
+      "apr": {
+        "customer": "",
+        "revenue": 34266000,
+        "type": "－"
+      },
+      "may": {
+        "customer": "",
+        "revenue": 34266000,
+        "type": "－"
+      },
+      "jun": {
+        "customer": "",
+        "revenue": 34266000,
+        "type": "－"
+      },
+      "jul": {
+        "customer": "",
+        "revenue": 34266000,
+        "type": "－"
+      },
+      "aug": {
+        "customer": "",
+        "revenue": 34266000,
+        "type": "－"
+      },
+      "sep": {
+        "customer": "",
+        "revenue": 34266000,
+        "type": "－"
+      }
+    },
+    {
+      "id": "1762763711508",
+      "name": "社員",
+      "dept": "",
+      "updatedAt": "2025-11-10T17:35:11.395137",
+      "oct": {
+        "customer": "",
+        "revenue": 5415000,
+        "type": "－"
+      },
+      "nov": {
+        "customer": "",
+        "revenue": 5415000,
+        "type": "－"
+      },
+      "dec": {
+        "customer": "",
+        "revenue": 5415000,
+        "type": "－"
+      },
+      "jan": {
+        "customer": "",
+        "revenue": 0,
+        "type": "－"
+      },
+      "feb": {
+        "customer": "",
+        "revenue": 0,
+        "type": "－"
+      },
+      "mar": {
+        "customer": "",
+        "revenue": 0,
+        "type": "－"
+      },
+      "apr": {
+        "customer": "",
+        "revenue": 0,
+        "type": "－"
+      },
+      "may": {
+        "customer": "",
+        "revenue": 0,
+        "type": "－"
+      },
+      "jun": {
+        "customer": "",
+        "revenue": 0,
+        "type": "－"
+      },
+      "jul": {
+        "customer": "",
+        "revenue": 0,
+        "type": "－"
+      },
+      "aug": {
+        "customer": "",
+        "revenue": 0,
+        "type": "－"
+      },
+      "sep": {
+        "customer": "",
+        "revenue": 0,
+        "type": "－"
+      }
+    },
+    {
+      "id": "1762763711509",
+      "name": "BP",
+      "dept": "",
+      "updatedAt": "2025-11-10T17:35:11.395137",
+      "oct": {
+        "customer": "",
+        "revenue": 3440000,
+        "type": "－"
+      },
+      "nov": {
+        "customer": "",
+        "revenue": 4170000,
+        "type": "－"
+      },
+      "dec": {
+        "customer": "",
+        "revenue": 3470000,
+        "type": "－"
+      },
+      "jan": {
+        "customer": "",
+        "revenue": 0,
+        "type": "－"
+      },
+      "feb": {
+        "customer": "",
+        "revenue": 0,
+        "type": "－"
+      },
+      "mar": {
+        "customer": "",
+        "revenue": 0,
+        "type": "－"
+      },
+      "apr": {
+        "customer": "",
+        "revenue": 0,
+        "type": "－"
+      },
+      "may": {
+        "customer": "",
+        "revenue": 0,
+        "type": "－"
+      },
+      "jun": {
+        "customer": "",
+        "revenue": 0,
+        "type": "－"
+      },
+      "jul": {
+        "customer": "",
+        "revenue": 0,
+        "type": "－"
+      },
+      "aug": {
+        "customer": "",
+        "revenue": 0,
+        "type": "－"
+      },
+      "sep": {
+        "customer": "",
+        "revenue": 0,
+        "type": "－"
+      }
+    },
+    {
+      "id": "1762763711510",
+      "name": "合計",
+      "dept": "",
+      "updatedAt": "2025-11-10T17:35:11.395137",
+      "oct": {
+        "customer": "",
+        "revenue": 8855000,
+        "type": "－"
+      },
+      "nov": {
+        "customer": "",
+        "revenue": 9585000,
+        "type": "－"
+      },
+      "dec": {
+        "customer": "",
+        "revenue": 8885000,
+        "type": "－"
+      },
+      "jan": {
+        "customer": "",
+        "revenue": 0,
+        "type": "－"
+      },
+      "feb": {
+        "customer": "",
+        "revenue": 0,
+        "type": "－"
+      },
+      "mar": {
+        "customer": "",
+        "revenue": 0,
+        "type": "－"
+      },
+      "apr": {
+        "customer": "",
+        "revenue": 0,
+        "type": "－"
+      },
+      "may": {
+        "customer": "",
+        "revenue": 0,
+        "type": "－"
+      },
+      "jun": {
+        "customer": "",
+        "revenue": 0,
+        "type": "－"
+      },
+      "jul": {
+        "customer": "",
+        "revenue": 0,
+        "type": "－"
+      },
+      "aug": {
+        "customer": "",
+        "revenue": 0,
+        "type": "－"
+      },
+      "sep": {
+        "customer": "",
+        "revenue": 0,
+        "type": "－"
+      }
+    },
+    {
+      "id": "1762763711511",
+      "name": "社員",
+      "dept": "",
+      "updatedAt": "2025-11-10T17:35:11.395137",
+      "oct": {
+        "customer": "",
+        "revenue": 5415000,
+        "type": "－"
+      },
+      "nov": {
+        "customer": "",
+        "revenue": 10830000,
+        "type": "－"
+      },
+      "dec": {
+        "customer": "",
+        "revenue": 16245000,
+        "type": "－"
+      },
+      "jan": {
+        "customer": "",
+        "revenue": 16245000,
+        "type": "－"
+      },
+      "feb": {
+        "customer": "",
+        "revenue": 16245000,
+        "type": "－"
+      },
+      "mar": {
+        "customer": "",
+        "revenue": 16245000,
+        "type": "－"
+      },
+      "apr": {
+        "customer": "",
+        "revenue": 16245000,
+        "type": "－"
+      },
+      "may": {
+        "customer": "",
+        "revenue": 16245000,
+        "type": "－"
+      },
+      "jun": {
+        "customer": "",
+        "revenue": 16245000,
+        "type": "－"
+      },
+      "jul": {
+        "customer": "",
+        "revenue": 16245000,
+        "type": "－"
+      },
+      "aug": {
+        "customer": "",
+        "revenue": 16245000,
+        "type": "－"
+      },
+      "sep": {
+        "customer": "",
+        "revenue": 16245000,
+        "type": "－"
+      }
+    },
+    {
+      "id": "1762763711512",
+      "name": "BP",
+      "dept": "",
+      "updatedAt": "2025-11-10T17:35:11.395137",
+      "oct": {
+        "customer": "",
+        "revenue": 3440000,
+        "type": "－"
+      },
+      "nov": {
+        "customer": "",
+        "revenue": 7610000,
+        "type": "－"
+      },
+      "dec": {
+        "customer": "",
+        "revenue": 11080000,
+        "type": "－"
+      },
+      "jan": {
+        "customer": "",
+        "revenue": 11080000,
+        "type": "－"
+      },
+      "feb": {
+        "customer": "",
+        "revenue": 11080000,
+        "type": "－"
+      },
+      "mar": {
+        "customer": "",
+        "revenue": 11080000,
+        "type": "－"
+      },
+      "apr": {
+        "customer": "",
+        "revenue": 11080000,
+        "type": "－"
+      },
+      "may": {
+        "customer": "",
+        "revenue": 11080000,
+        "type": "－"
+      },
+      "jun": {
+        "customer": "",
+        "revenue": 11080000,
+        "type": "－"
+      },
+      "jul": {
+        "customer": "",
+        "revenue": 11080000,
+        "type": "－"
+      },
+      "aug": {
+        "customer": "",
+        "revenue": 11080000,
+        "type": "－"
+      },
+      "sep": {
+        "customer": "",
+        "revenue": 11080000,
+        "type": "－"
+      }
+    },
+    {
+      "id": "1762763711513",
+      "name": "合計",
+      "dept": "",
+      "updatedAt": "2025-11-10T17:35:11.395137",
+      "oct": {
+        "customer": "",
+        "revenue": 8855000,
+        "type": "－"
+      },
+      "nov": {
+        "customer": "",
+        "revenue": 18440000,
+        "type": "－"
+      },
+      "dec": {
+        "customer": "",
+        "revenue": 27325000,
+        "type": "－"
+      },
+      "jan": {
+        "customer": "",
+        "revenue": 27325000,
+        "type": "－"
+      },
+      "feb": {
+        "customer": "",
+        "revenue": 27325000,
+        "type": "－"
+      },
+      "mar": {
+        "customer": "",
+        "revenue": 27325000,
+        "type": "－"
+      },
+      "apr": {
+        "customer": "",
+        "revenue": 27325000,
+        "type": "－"
+      },
+      "may": {
+        "customer": "",
+        "revenue": 27325000,
+        "type": "－"
+      },
+      "jun": {
+        "customer": "",
+        "revenue": 27325000,
+        "type": "－"
+      },
+      "jul": {
+        "customer": "",
+        "revenue": 27325000,
+        "type": "－"
+      },
+      "aug": {
+        "customer": "",
+        "revenue": 27325000,
+        "type": "－"
+      },
+      "sep": {
+        "customer": "",
+        "revenue": 27325000,
+        "type": "－"
+      }
+    },
+    {
+      "id": "1762763711516",
+      "name": "社員",
+      "dept": "",
+      "updatedAt": "2025-11-10T17:35:11.395137",
+      "oct": {
+        "customer": "",
+        "revenue": 5352000,
+        "type": "－"
+      },
+      "nov": {
+        "customer": "",
+        "revenue": 5352000,
+        "type": "－"
+      },
+      "dec": {
+        "customer": "",
+        "revenue": 5352000,
+        "type": "－"
+      },
+      "jan": {
+        "customer": "",
+        "revenue": 0,
+        "type": "－"
+      },
+      "feb": {
+        "customer": "",
+        "revenue": 0,
+        "type": "－"
+      },
+      "mar": {
+        "customer": "",
+        "revenue": 0,
+        "type": "－"
+      },
+      "apr": {
+        "customer": "",
+        "revenue": 0,
+        "type": "－"
+      },
+      "may": {
+        "customer": "",
+        "revenue": 0,
+        "type": "－"
+      },
+      "jun": {
+        "customer": "",
+        "revenue": 0,
+        "type": "－"
+      },
+      "jul": {
+        "customer": "",
+        "revenue": 0,
+        "type": "－"
+      },
+      "aug": {
+        "customer": "",
+        "revenue": 0,
+        "type": "－"
+      },
+      "sep": {
+        "customer": "",
+        "revenue": 0,
+        "type": "－"
+      }
+    },
+    {
+      "id": "1762763711517",
+      "name": "BP",
+      "dept": "",
+      "updatedAt": "2025-11-10T17:35:11.395137",
+      "oct": {
+        "customer": "",
+        "revenue": 1835000,
+        "type": "－"
+      },
+      "nov": {
+        "customer": "",
+        "revenue": 1835000,
+        "type": "－"
+      },
+      "dec": {
+        "customer": "",
+        "revenue": 1835000,
+        "type": "－"
+      },
+      "jan": {
+        "customer": "",
+        "revenue": 0,
+        "type": "－"
+      },
+      "feb": {
+        "customer": "",
+        "revenue": 0,
+        "type": "－"
+      },
+      "mar": {
+        "customer": "",
+        "revenue": 0,
+        "type": "－"
+      },
+      "apr": {
+        "customer": "",
+        "revenue": 0,
+        "type": "－"
+      },
+      "may": {
+        "customer": "",
+        "revenue": 0,
+        "type": "－"
+      },
+      "jun": {
+        "customer": "",
+        "revenue": 0,
+        "type": "－"
+      },
+      "jul": {
+        "customer": "",
+        "revenue": 0,
+        "type": "－"
+      },
+      "aug": {
+        "customer": "",
+        "revenue": 0,
+        "type": "－"
+      },
+      "sep": {
+        "customer": "",
+        "revenue": 0,
+        "type": "－"
+      }
+    },
+    {
+      "id": "1762763711518",
+      "name": "合計",
+      "dept": "",
+      "updatedAt": "2025-11-10T17:35:11.395137",
+      "oct": {
+        "customer": "",
+        "revenue": 7187000,
+        "type": "－"
+      },
+      "nov": {
+        "customer": "",
+        "revenue": 7187000,
+        "type": "－"
+      },
+      "dec": {
+        "customer": "",
+        "revenue": 7187000,
+        "type": "－"
+      },
+      "jan": {
+        "customer": "",
+        "revenue": 0,
+        "type": "－"
+      },
+      "feb": {
+        "customer": "",
+        "revenue": 0,
+        "type": "－"
+      },
+      "mar": {
+        "customer": "",
+        "revenue": 0,
+        "type": "－"
+      },
+      "apr": {
+        "customer": "",
+        "revenue": 0,
+        "type": "－"
+      },
+      "may": {
+        "customer": "",
+        "revenue": 0,
+        "type": "－"
+      },
+      "jun": {
+        "customer": "",
+        "revenue": 0,
+        "type": "－"
+      },
+      "jul": {
+        "customer": "",
+        "revenue": 0,
+        "type": "－"
+      },
+      "aug": {
+        "customer": "",
+        "revenue": 0,
+        "type": "－"
+      },
+      "sep": {
+        "customer": "",
+        "revenue": 0,
+        "type": "－"
+      }
+    },
+    {
+      "id": "1762763711519",
+      "name": "社員",
+      "dept": "",
+      "updatedAt": "2025-11-10T17:35:11.395137",
+      "oct": {
+        "customer": "",
+        "revenue": 5352000,
+        "type": "－"
+      },
+      "nov": {
+        "customer": "",
+        "revenue": 10704000,
+        "type": "－"
+      },
+      "dec": {
+        "customer": "",
+        "revenue": 16056000,
+        "type": "－"
+      },
+      "jan": {
+        "customer": "",
+        "revenue": 16056000,
+        "type": "－"
+      },
+      "feb": {
+        "customer": "",
+        "revenue": 16056000,
+        "type": "－"
+      },
+      "mar": {
+        "customer": "",
+        "revenue": 16056000,
+        "type": "－"
+      },
+      "apr": {
+        "customer": "",
+        "revenue": 16056000,
+        "type": "－"
+      },
+      "may": {
+        "customer": "",
+        "revenue": 16056000,
+        "type": "－"
+      },
+      "jun": {
+        "customer": "",
+        "revenue": 16056000,
+        "type": "－"
+      },
+      "jul": {
+        "customer": "",
+        "revenue": 16056000,
+        "type": "－"
+      },
+      "aug": {
+        "customer": "",
+        "revenue": 16056000,
+        "type": "－"
+      },
+      "sep": {
+        "customer": "",
+        "revenue": 16056000,
+        "type": "－"
+      }
+    },
+    {
+      "id": "1762763711520",
+      "name": "BP",
+      "dept": "",
+      "updatedAt": "2025-11-10T17:35:11.395137",
+      "oct": {
+        "customer": "",
+        "revenue": 1835000,
+        "type": "－"
+      },
+      "nov": {
+        "customer": "",
+        "revenue": 3670000,
+        "type": "－"
+      },
+      "dec": {
+        "customer": "",
+        "revenue": 5505000,
+        "type": "－"
+      },
+      "jan": {
+        "customer": "",
+        "revenue": 5505000,
+        "type": "－"
+      },
+      "feb": {
+        "customer": "",
+        "revenue": 5505000,
+        "type": "－"
+      },
+      "mar": {
+        "customer": "",
+        "revenue": 5505000,
+        "type": "－"
+      },
+      "apr": {
+        "customer": "",
+        "revenue": 5505000,
+        "type": "－"
+      },
+      "may": {
+        "customer": "",
+        "revenue": 5505000,
+        "type": "－"
+      },
+      "jun": {
+        "customer": "",
+        "revenue": 5505000,
+        "type": "－"
+      },
+      "jul": {
+        "customer": "",
+        "revenue": 5505000,
+        "type": "－"
+      },
+      "aug": {
+        "customer": "",
+        "revenue": 5505000,
+        "type": "－"
+      },
+      "sep": {
+        "customer": "",
+        "revenue": 5505000,
+        "type": "－"
+      }
+    },
+    {
+      "id": "1762763711521",
+      "name": "合計",
+      "dept": "",
+      "updatedAt": "2025-11-10T17:35:11.395137",
+      "oct": {
+        "customer": "",
+        "revenue": 7187000,
+        "type": "－"
+      },
+      "nov": {
+        "customer": "",
+        "revenue": 14374000,
+        "type": "－"
+      },
+      "dec": {
+        "customer": "",
+        "revenue": 21561000,
+        "type": "－"
+      },
+      "jan": {
+        "customer": "",
+        "revenue": 21561000,
+        "type": "－"
+      },
+      "feb": {
+        "customer": "",
+        "revenue": 21561000,
+        "type": "－"
+      },
+      "mar": {
+        "customer": "",
+        "revenue": 21561000,
+        "type": "－"
+      },
+      "apr": {
+        "customer": "",
+        "revenue": 21561000,
+        "type": "－"
+      },
+      "may": {
+        "customer": "",
+        "revenue": 21561000,
+        "type": "－"
+      },
+      "jun": {
+        "customer": "",
+        "revenue": 21561000,
+        "type": "－"
+      },
+      "jul": {
+        "customer": "",
+        "revenue": 21561000,
+        "type": "－"
+      },
+      "aug": {
+        "customer": "",
+        "revenue": 21561000,
+        "type": "－"
+      },
+      "sep": {
+        "customer": "",
+        "revenue": 21561000,
+        "type": "－"
+      }
+    },
+    {
+      "id": "1762763711524",
+      "name": "社員",
+      "dept": "",
+      "updatedAt": "2025-11-10T17:35:11.395137",
+      "oct": {
+        "customer": "",
+        "revenue": 1880000,
+        "type": "－"
+      },
+      "nov": {
+        "customer": "",
+        "revenue": 1880000,
+        "type": "－"
+      },
+      "dec": {
+        "customer": "",
+        "revenue": 1180000,
+        "type": "－"
+      },
+      "jan": {
+        "customer": "",
+        "revenue": 0,
+        "type": "－"
+      },
+      "feb": {
+        "customer": "",
+        "revenue": 0,
+        "type": "－"
+      },
+      "mar": {
+        "customer": "",
+        "revenue": 0,
+        "type": "－"
+      },
+      "apr": {
+        "customer": "",
+        "revenue": 0,
+        "type": "－"
+      },
+      "may": {
+        "customer": "",
+        "revenue": 0,
+        "type": "－"
+      },
+      "jun": {
+        "customer": "",
+        "revenue": 0,
+        "type": "－"
+      },
+      "jul": {
+        "customer": "",
+        "revenue": 0,
+        "type": "－"
+      },
+      "aug": {
+        "customer": "",
+        "revenue": 0,
+        "type": "－"
+      },
+      "sep": {
+        "customer": "",
+        "revenue": 0,
+        "type": "－"
+      }
+    },
+    {
+      "id": "1762763711525",
+      "name": "BP",
+      "dept": "",
+      "updatedAt": "2025-11-10T17:35:11.395137",
+      "oct": {
+        "customer": "",
+        "revenue": 650000,
+        "type": "－"
+      },
+      "nov": {
+        "customer": "",
+        "revenue": 1300000,
+        "type": "－"
+      },
+      "dec": {
+        "customer": "",
+        "revenue": 2700000,
+        "type": "－"
+      },
+      "jan": {
+        "customer": "",
+        "revenue": 0,
+        "type": "－"
+      },
+      "feb": {
+        "customer": "",
+        "revenue": 0,
+        "type": "－"
+      },
+      "mar": {
+        "customer": "",
+        "revenue": 0,
+        "type": "－"
+      },
+      "apr": {
+        "customer": "",
+        "revenue": 0,
+        "type": "－"
+      },
+      "may": {
+        "customer": "",
+        "revenue": 0,
+        "type": "－"
+      },
+      "jun": {
+        "customer": "",
+        "revenue": 0,
+        "type": "－"
+      },
+      "jul": {
+        "customer": "",
+        "revenue": 0,
+        "type": "－"
+      },
+      "aug": {
+        "customer": "",
+        "revenue": 0,
+        "type": "－"
+      },
+      "sep": {
+        "customer": "",
+        "revenue": 0,
+        "type": "－"
+      }
+    },
+    {
+      "id": "1762763711526",
+      "name": "合計",
+      "dept": "",
+      "updatedAt": "2025-11-10T17:35:11.395137",
+      "oct": {
+        "customer": "",
+        "revenue": 2530000,
+        "type": "－"
+      },
+      "nov": {
+        "customer": "",
+        "revenue": 3180000,
+        "type": "－"
+      },
+      "dec": {
+        "customer": "",
+        "revenue": 3880000,
+        "type": "－"
+      },
+      "jan": {
+        "customer": "",
+        "revenue": 0,
+        "type": "－"
+      },
+      "feb": {
+        "customer": "",
+        "revenue": 0,
+        "type": "－"
+      },
+      "mar": {
+        "customer": "",
+        "revenue": 0,
+        "type": "－"
+      },
+      "apr": {
+        "customer": "",
+        "revenue": 0,
+        "type": "－"
+      },
+      "may": {
+        "customer": "",
+        "revenue": 0,
+        "type": "－"
+      },
+      "jun": {
+        "customer": "",
+        "revenue": 0,
+        "type": "－"
+      },
+      "jul": {
+        "customer": "",
+        "revenue": 0,
+        "type": "－"
+      },
+      "aug": {
+        "customer": "",
+        "revenue": 0,
+        "type": "－"
+      },
+      "sep": {
+        "customer": "",
+        "revenue": 0,
+        "type": "－"
+      }
+    },
+    {
+      "id": "1762763711527",
+      "name": "社員",
+      "dept": "",
+      "updatedAt": "2025-11-10T17:35:11.395137",
+      "oct": {
+        "customer": "",
+        "revenue": 1880000,
+        "type": "－"
+      },
+      "nov": {
+        "customer": "",
+        "revenue": 3760000,
+        "type": "－"
+      },
+      "dec": {
+        "customer": "",
+        "revenue": 4940000,
+        "type": "－"
+      },
+      "jan": {
+        "customer": "",
+        "revenue": 4940000,
+        "type": "－"
+      },
+      "feb": {
+        "customer": "",
+        "revenue": 4940000,
+        "type": "－"
+      },
+      "mar": {
+        "customer": "",
+        "revenue": 4940000,
+        "type": "－"
+      },
+      "apr": {
+        "customer": "",
+        "revenue": 4940000,
+        "type": "－"
+      },
+      "may": {
+        "customer": "",
+        "revenue": 4940000,
+        "type": "－"
+      },
+      "jun": {
+        "customer": "",
+        "revenue": 4940000,
+        "type": "－"
+      },
+      "jul": {
+        "customer": "",
+        "revenue": 4940000,
+        "type": "－"
+      },
+      "aug": {
+        "customer": "",
+        "revenue": 4940000,
+        "type": "－"
+      },
+      "sep": {
+        "customer": "",
+        "revenue": 4940000,
+        "type": "－"
+      }
+    },
+    {
+      "id": "1762763711528",
+      "name": "BP",
+      "dept": "",
+      "updatedAt": "2025-11-10T17:35:11.395137",
+      "oct": {
+        "customer": "",
+        "revenue": 650000,
+        "type": "－"
+      },
+      "nov": {
+        "customer": "",
+        "revenue": 1950000,
+        "type": "－"
+      },
+      "dec": {
+        "customer": "",
+        "revenue": 4650000,
+        "type": "－"
+      },
+      "jan": {
+        "customer": "",
+        "revenue": 4650000,
+        "type": "－"
+      },
+      "feb": {
+        "customer": "",
+        "revenue": 4650000,
+        "type": "－"
+      },
+      "mar": {
+        "customer": "",
+        "revenue": 4650000,
+        "type": "－"
+      },
+      "apr": {
+        "customer": "",
+        "revenue": 4650000,
+        "type": "－"
+      },
+      "may": {
+        "customer": "",
+        "revenue": 4650000,
+        "type": "－"
+      },
+      "jun": {
+        "customer": "",
+        "revenue": 4650000,
+        "type": "－"
+      },
+      "jul": {
+        "customer": "",
+        "revenue": 4650000,
+        "type": "－"
+      },
+      "aug": {
+        "customer": "",
+        "revenue": 4650000,
+        "type": "－"
+      },
+      "sep": {
+        "customer": "",
+        "revenue": 4650000,
+        "type": "－"
+      }
+    },
+    {
+      "id": "1762763711529",
+      "name": "合計",
+      "dept": "",
+      "updatedAt": "2025-11-10T17:35:11.395137",
+      "oct": {
+        "customer": "",
+        "revenue": 2530000,
+        "type": "－"
+      },
+      "nov": {
+        "customer": "",
+        "revenue": 5710000,
+        "type": "－"
+      },
+      "dec": {
+        "customer": "",
+        "revenue": 9590000,
+        "type": "－"
+      },
+      "jan": {
+        "customer": "",
+        "revenue": 9590000,
+        "type": "－"
+      },
+      "feb": {
+        "customer": "",
+        "revenue": 9590000,
+        "type": "－"
+      },
+      "mar": {
+        "customer": "",
+        "revenue": 9590000,
+        "type": "－"
+      },
+      "apr": {
+        "customer": "",
+        "revenue": 9590000,
+        "type": "－"
+      },
+      "may": {
+        "customer": "",
+        "revenue": 9590000,
+        "type": "－"
+      },
+      "jun": {
+        "customer": "",
+        "revenue": 9590000,
+        "type": "－"
+      },
+      "jul": {
+        "customer": "",
+        "revenue": 9590000,
+        "type": "－"
+      },
+      "aug": {
+        "customer": "",
+        "revenue": 9590000,
+        "type": "－"
+      },
+      "sep": {
+        "customer": "",
+        "revenue": 9590000,
+        "type": "－"
+      }
+    },
+    {
+      "id": "1762763711532",
+      "name": "社員",
+      "dept": "",
+      "updatedAt": "2025-11-10T17:35:11.395137",
+      "oct": {
+        "customer": "",
+        "revenue": 20424000,
+        "type": "－"
+      },
+      "nov": {
+        "customer": "",
+        "revenue": 20424000,
+        "type": "－"
+      },
+      "dec": {
+        "customer": "",
+        "revenue": 19724000,
+        "type": "－"
+      },
+      "jan": {
+        "customer": "",
+        "revenue": 0,
+        "type": "－"
+      },
+      "feb": {
+        "customer": "",
+        "revenue": 0,
+        "type": "－"
+      },
+      "mar": {
+        "customer": "",
+        "revenue": 0,
+        "type": "－"
+      },
+      "apr": {
+        "customer": "",
+        "revenue": 0,
+        "type": "－"
+      },
+      "may": {
+        "customer": "",
+        "revenue": 0,
+        "type": "－"
+      },
+      "jun": {
+        "customer": "",
+        "revenue": 0,
+        "type": "－"
+      },
+      "jul": {
+        "customer": "",
+        "revenue": 0,
+        "type": "－"
+      },
+      "aug": {
+        "customer": "",
+        "revenue": 0,
+        "type": "－"
+      },
+      "sep": {
+        "customer": "",
+        "revenue": 0,
+        "type": "－"
+      }
+    },
+    {
+      "id": "1762763711533",
+      "name": "BP",
+      "dept": "",
+      "updatedAt": "2025-11-10T17:35:11.395137",
+      "oct": {
+        "customer": "",
+        "revenue": 9570000,
+        "type": "－"
+      },
+      "nov": {
+        "customer": "",
+        "revenue": 10950000,
+        "type": "－"
+      },
+      "dec": {
+        "customer": "",
+        "revenue": 11650000,
+        "type": "－"
+      },
+      "jan": {
+        "customer": "",
+        "revenue": 0,
+        "type": "－"
+      },
+      "feb": {
+        "customer": "",
+        "revenue": 0,
+        "type": "－"
+      },
+      "mar": {
+        "customer": "",
+        "revenue": 0,
+        "type": "－"
+      },
+      "apr": {
+        "customer": "",
+        "revenue": 0,
+        "type": "－"
+      },
+      "may": {
+        "customer": "",
+        "revenue": 0,
+        "type": "－"
+      },
+      "jun": {
+        "customer": "",
+        "revenue": 0,
+        "type": "－"
+      },
+      "jul": {
+        "customer": "",
+        "revenue": 0,
+        "type": "－"
+      },
+      "aug": {
+        "customer": "",
+        "revenue": 0,
+        "type": "－"
+      },
+      "sep": {
+        "customer": "",
+        "revenue": 0,
+        "type": "－"
+      }
+    },
+    {
+      "id": "1762763711534",
+      "name": "合計",
+      "dept": "",
+      "updatedAt": "2025-11-10T17:35:11.395137",
+      "oct": {
+        "customer": "",
+        "revenue": 29994000,
+        "type": "－"
+      },
+      "nov": {
+        "customer": "",
+        "revenue": 31374000,
+        "type": "－"
+      },
+      "dec": {
+        "customer": "",
+        "revenue": 31374000,
+        "type": "－"
+      },
+      "jan": {
+        "customer": "",
+        "revenue": 0,
+        "type": "－"
+      },
+      "feb": {
+        "customer": "",
+        "revenue": 0,
+        "type": "－"
+      },
+      "mar": {
+        "customer": "",
+        "revenue": 0,
+        "type": "－"
+      },
+      "apr": {
+        "customer": "",
+        "revenue": 0,
+        "type": "－"
+      },
+      "may": {
+        "customer": "",
+        "revenue": 0,
+        "type": "－"
+      },
+      "jun": {
+        "customer": "",
+        "revenue": 0,
+        "type": "－"
+      },
+      "jul": {
+        "customer": "",
+        "revenue": 0,
+        "type": "－"
+      },
+      "aug": {
+        "customer": "",
+        "revenue": 0,
+        "type": "－"
+      },
+      "sep": {
+        "customer": "",
+        "revenue": 0,
+        "type": "－"
+      }
+    },
+    {
+      "id": "1762763711535",
+      "name": "社員",
+      "dept": "",
+      "updatedAt": "2025-11-10T17:35:11.395137",
+      "oct": {
+        "customer": "",
+        "revenue": 20424000,
+        "type": "－"
+      },
+      "nov": {
+        "customer": "",
+        "revenue": 40848000,
+        "type": "－"
+      },
+      "dec": {
+        "customer": "",
+        "revenue": 60572000,
+        "type": "－"
+      },
+      "jan": {
+        "customer": "",
+        "revenue": 60572000,
+        "type": "－"
+      },
+      "feb": {
+        "customer": "",
+        "revenue": 60572000,
+        "type": "－"
+      },
+      "mar": {
+        "customer": "",
+        "revenue": 60572000,
+        "type": "－"
+      },
+      "apr": {
+        "customer": "",
+        "revenue": 60572000,
+        "type": "－"
+      },
+      "may": {
+        "customer": "",
+        "revenue": 60572000,
+        "type": "－"
+      },
+      "jun": {
+        "customer": "",
+        "revenue": 60572000,
+        "type": "－"
+      },
+      "jul": {
+        "customer": "",
+        "revenue": 60572000,
+        "type": "－"
+      },
+      "aug": {
+        "customer": "",
+        "revenue": 60572000,
+        "type": "－"
+      },
+      "sep": {
+        "customer": "",
+        "revenue": 60572000,
+        "type": "－"
+      }
+    },
+    {
+      "id": "1762763711536",
+      "name": "BP",
+      "dept": "",
+      "updatedAt": "2025-11-10T17:35:11.395137",
+      "oct": {
+        "customer": "",
+        "revenue": 9570000,
+        "type": "－"
+      },
+      "nov": {
+        "customer": "",
+        "revenue": 20520000,
+        "type": "－"
+      },
+      "dec": {
+        "customer": "",
+        "revenue": 32170000,
+        "type": "－"
+      },
+      "jan": {
+        "customer": "",
+        "revenue": 32170000,
+        "type": "－"
+      },
+      "feb": {
+        "customer": "",
+        "revenue": 32170000,
+        "type": "－"
+      },
+      "mar": {
+        "customer": "",
+        "revenue": 32170000,
+        "type": "－"
+      },
+      "apr": {
+        "customer": "",
+        "revenue": 32170000,
+        "type": "－"
+      },
+      "may": {
+        "customer": "",
+        "revenue": 32170000,
+        "type": "－"
+      },
+      "jun": {
+        "customer": "",
+        "revenue": 32170000,
+        "type": "－"
+      },
+      "jul": {
+        "customer": "",
+        "revenue": 32170000,
+        "type": "－"
+      },
+      "aug": {
+        "customer": "",
+        "revenue": 32170000,
+        "type": "－"
+      },
+      "sep": {
+        "customer": "",
+        "revenue": 32170000,
+        "type": "－"
+      }
+    },
+    {
+      "id": "1762763711537",
+      "name": "合計",
+      "dept": "",
+      "updatedAt": "2025-11-10T17:35:11.395137",
+      "oct": {
+        "customer": "",
+        "revenue": 29994000,
+        "type": "－"
+      },
+      "nov": {
+        "customer": "",
+        "revenue": 61368000,
+        "type": "－"
+      },
+      "dec": {
+        "customer": "",
+        "revenue": 92742000,
+        "type": "－"
+      },
+      "jan": {
+        "customer": "",
+        "revenue": 92742000,
+        "type": "－"
+      },
+      "feb": {
+        "customer": "",
+        "revenue": 92742000,
+        "type": "－"
+      },
+      "mar": {
+        "customer": "",
+        "revenue": 92742000,
+        "type": "－"
+      },
+      "apr": {
+        "customer": "",
+        "revenue": 92742000,
+        "type": "－"
+      },
+      "may": {
+        "customer": "",
+        "revenue": 92742000,
+        "type": "－"
+      },
+      "jun": {
+        "customer": "",
+        "revenue": 92742000,
+        "type": "－"
+      },
+      "jul": {
+        "customer": "",
+        "revenue": 92742000,
+        "type": "－"
+      },
+      "aug": {
+        "customer": "",
+        "revenue": 92742000,
+        "type": "－"
+      },
+      "sep": {
+        "customer": "",
+        "revenue": 92742000,
+        "type": "－"
+      }
+    },
+    {
+      "id": "1762763711540",
+      "name": "合計",
+      "dept": "",
+      "updatedAt": "2025-11-10T17:35:11.395137",
+      "oct": {
+        "customer": "15",
+        "revenue": 9892000,
+        "type": "－"
+      },
+      "nov": {
+        "customer": "19",
+        "revenue": 11272000,
+        "type": "－"
+      },
+      "dec": {
+        "customer": "19",
+        "revenue": 11272000,
+        "type": ""
+      },
+      "jan": {
+        "customer": "",
+        "revenue": 0,
+        "type": ""
+      },
+      "feb": {
+        "customer": "",
+        "revenue": 0,
+        "type": ""
+      },
+      "mar": {
+        "customer": "",
+        "revenue": 0,
+        "type": ""
+      },
+      "apr": {
+        "customer": "",
+        "revenue": 0,
+        "type": ""
+      },
+      "may": {
+        "customer": "",
+        "revenue": 0,
+        "type": ""
+      },
+      "jun": {
+        "customer": "",
+        "revenue": 0,
+        "type": ""
+      },
+      "jul": {
+        "customer": "",
+        "revenue": 0,
+        "type": ""
+      },
+      "aug": {
+        "customer": "",
+        "revenue": 0,
+        "type": ""
+      },
+      "sep": {
+        "customer": "",
+        "revenue": 0,
+        "type": ""
+      }
+    },
+    {
+      "id": "1762763711541",
+      "name": "税込",
+      "dept": "－",
+      "updatedAt": "2025-11-10T17:35:11.395137",
+      "oct": {
+        "customer": "－",
+        "revenue": 10881200,
+        "type": "－"
+      },
+      "nov": {
+        "customer": "－",
+        "revenue": 12399200,
+        "type": "－"
+      },
+      "dec": {
+        "customer": "－",
+        "revenue": 12399200,
+        "type": "－"
+      },
+      "jan": {
+        "customer": "－",
+        "revenue": 0,
+        "type": "－"
+      },
+      "feb": {
+        "customer": "－",
+        "revenue": 0,
+        "type": "－"
+      },
+      "mar": {
+        "customer": "－",
+        "revenue": 0,
+        "type": "－"
+      },
+      "apr": {
+        "customer": "－",
+        "revenue": 0,
+        "type": "－"
+      },
+      "may": {
+        "customer": "－",
+        "revenue": 0,
+        "type": "－"
+      },
+      "jun": {
+        "customer": "－",
+        "revenue": 0,
+        "type": "－"
+      },
+      "jul": {
+        "customer": "－",
+        "revenue": 0,
+        "type": "－"
+      },
+      "aug": {
+        "customer": "－",
+        "revenue": 0,
+        "type": "－"
+      },
+      "sep": {
+        "customer": "－",
+        "revenue": 0,
+        "type": "－"
+      }
+    },
+    {
+      "id": "1762763711542",
+      "name": "合計",
+      "dept": "",
+      "updatedAt": "2025-11-10T17:35:11.395137",
+      "oct": {
+        "customer": "9",
+        "revenue": 5460000,
+        "type": "－"
+      },
+      "nov": {
+        "customer": "9",
+        "revenue": 5460000,
+        "type": "－"
+      },
+      "dec": {
+        "customer": "9",
+        "revenue": 5460000,
+        "type": ""
+      },
+      "jan": {
+        "customer": "",
+        "revenue": 0,
+        "type": ""
+      },
+      "feb": {
+        "customer": "",
+        "revenue": 0,
+        "type": ""
+      },
+      "mar": {
+        "customer": "",
+        "revenue": 0,
+        "type": ""
+      },
+      "apr": {
+        "customer": "",
+        "revenue": 0,
+        "type": ""
+      },
+      "may": {
+        "customer": "",
+        "revenue": 0,
+        "type": ""
+      },
+      "jun": {
+        "customer": "",
+        "revenue": 0,
+        "type": ""
+      },
+      "jul": {
+        "customer": "",
+        "revenue": 0,
+        "type": ""
+      },
+      "aug": {
+        "customer": "",
+        "revenue": 0,
+        "type": ""
+      },
+      "sep": {
+        "customer": "",
+        "revenue": 0,
+        "type": ""
+      }
+    },
+    {
+      "id": "1762763711543",
+      "name": "税込",
+      "dept": "－",
+      "updatedAt": "2025-11-10T17:35:11.395137",
+      "oct": {
+        "customer": "－",
+        "revenue": 6006000,
+        "type": "－"
+      },
+      "nov": {
+        "customer": "－",
+        "revenue": 6006000,
+        "type": "－"
+      },
+      "dec": {
+        "customer": "－",
+        "revenue": 6006000,
+        "type": "－"
+      },
+      "jan": {
+        "customer": "－",
+        "revenue": 0,
+        "type": "－"
+      },
+      "feb": {
+        "customer": "－",
+        "revenue": 0,
+        "type": "－"
+      },
+      "mar": {
+        "customer": "－",
+        "revenue": 0,
+        "type": "－"
+      },
+      "apr": {
+        "customer": "－",
+        "revenue": 0,
+        "type": "－"
+      },
+      "may": {
+        "customer": "－",
+        "revenue": 0,
+        "type": "－"
+      },
+      "jun": {
+        "customer": "－",
+        "revenue": 0,
+        "type": "－"
+      },
+      "jul": {
+        "customer": "－",
+        "revenue": 0,
+        "type": "－"
+      },
+      "aug": {
+        "customer": "－",
+        "revenue": 0,
+        "type": "－"
+      },
+      "sep": {
+        "customer": "－",
+        "revenue": 0,
+        "type": "－"
+      }
+    },
+    {
+      "id": "1762763711544",
+      "name": "合計",
+      "dept": "",
+      "updatedAt": "2025-11-10T17:35:11.395137",
+      "oct": {
+        "customer": "4",
+        "revenue": 2495000,
+        "type": "－"
+      },
+      "nov": {
+        "customer": "4",
+        "revenue": 2495000,
+        "type": "－"
+      },
+      "dec": {
+        "customer": "4",
+        "revenue": 2495000,
+        "type": ""
+      },
+      "jan": {
+        "customer": "",
+        "revenue": 0,
+        "type": ""
+      },
+      "feb": {
+        "customer": "",
+        "revenue": 0,
+        "type": ""
+      },
+      "mar": {
+        "customer": "",
+        "revenue": 0,
+        "type": ""
+      },
+      "apr": {
+        "customer": "",
+        "revenue": 0,
+        "type": ""
+      },
+      "may": {
+        "customer": "",
+        "revenue": 0,
+        "type": ""
+      },
+      "jun": {
+        "customer": "",
+        "revenue": 0,
+        "type": ""
+      },
+      "jul": {
+        "customer": "",
+        "revenue": 0,
+        "type": ""
+      },
+      "aug": {
+        "customer": "",
+        "revenue": 0,
+        "type": ""
+      },
+      "sep": {
+        "customer": "",
+        "revenue": 0,
+        "type": ""
+      }
+    },
+    {
+      "id": "1762763711545",
+      "name": "税込",
+      "dept": "－",
+      "updatedAt": "2025-11-10T17:35:11.395137",
+      "oct": {
+        "customer": "－",
+        "revenue": 2744500,
+        "type": "－"
+      },
+      "nov": {
+        "customer": "－",
+        "revenue": 2744500,
+        "type": "－"
+      },
+      "dec": {
+        "customer": "－",
+        "revenue": 2744500,
+        "type": "－"
+      },
+      "jan": {
+        "customer": "－",
+        "revenue": 0,
+        "type": "－"
+      },
+      "feb": {
+        "customer": "－",
+        "revenue": 0,
+        "type": "－"
+      },
+      "mar": {
+        "customer": "－",
+        "revenue": 0,
+        "type": "－"
+      },
+      "apr": {
+        "customer": "－",
+        "revenue": 0,
+        "type": "－"
+      },
+      "may": {
+        "customer": "－",
+        "revenue": 0,
+        "type": "－"
+      },
+      "jun": {
+        "customer": "－",
+        "revenue": 0,
+        "type": "－"
+      },
+      "jul": {
+        "customer": "－",
+        "revenue": 0,
+        "type": "－"
+      },
+      "aug": {
+        "customer": "－",
+        "revenue": 0,
+        "type": "－"
+      },
+      "sep": {
+        "customer": "－",
+        "revenue": 0,
+        "type": "－"
+      }
+    },
+    {
+      "id": "1762763711546",
+      "name": "合計",
+      "dept": "",
+      "updatedAt": "2025-11-10T17:35:11.395137",
+      "oct": {
+        "customer": "3",
+        "revenue": 1820000,
+        "type": "－"
+      },
+      "nov": {
+        "customer": "3",
+        "revenue": 1820000,
+        "type": "－"
+      },
+      "dec": {
+        "customer": "3",
+        "revenue": 1820000,
+        "type": ""
+      },
+      "jan": {
+        "customer": "",
+        "revenue": 0,
+        "type": ""
+      },
+      "feb": {
+        "customer": "",
+        "revenue": 0,
+        "type": ""
+      },
+      "mar": {
+        "customer": "",
+        "revenue": 0,
+        "type": ""
+      },
+      "apr": {
+        "customer": "",
+        "revenue": 0,
+        "type": ""
+      },
+      "may": {
+        "customer": "",
+        "revenue": 0,
+        "type": ""
+      },
+      "jun": {
+        "customer": "",
+        "revenue": 0,
+        "type": ""
+      },
+      "jul": {
+        "customer": "",
+        "revenue": 0,
+        "type": ""
+      },
+      "aug": {
+        "customer": "",
+        "revenue": 0,
+        "type": ""
+      },
+      "sep": {
+        "customer": "",
+        "revenue": 0,
+        "type": ""
+      }
+    },
+    {
+      "id": "1762763711547",
+      "name": "税込",
+      "dept": "－",
+      "updatedAt": "2025-11-10T17:35:11.395137",
+      "oct": {
+        "customer": "－",
+        "revenue": 2002000,
+        "type": "－"
+      },
+      "nov": {
+        "customer": "－",
+        "revenue": 2002000,
+        "type": "－"
+      },
+      "dec": {
+        "customer": "－",
+        "revenue": 2002000,
+        "type": "－"
+      },
+      "jan": {
+        "customer": "－",
+        "revenue": 0,
+        "type": "－"
+      },
+      "feb": {
+        "customer": "－",
+        "revenue": 0,
+        "type": "－"
+      },
+      "mar": {
+        "customer": "－",
+        "revenue": 0,
+        "type": "－"
+      },
+      "apr": {
+        "customer": "－",
+        "revenue": 0,
+        "type": "－"
+      },
+      "may": {
+        "customer": "－",
+        "revenue": 0,
+        "type": "－"
+      },
+      "jun": {
+        "customer": "－",
+        "revenue": 0,
+        "type": "－"
+      },
+      "jul": {
+        "customer": "－",
+        "revenue": 0,
+        "type": "－"
+      },
+      "aug": {
+        "customer": "－",
+        "revenue": 0,
+        "type": "－"
+      },
+      "sep": {
+        "customer": "－",
+        "revenue": 0,
+        "type": "－"
+      }
+    },
+    {
+      "id": "1762763711550",
+      "name": "合計",
+      "dept": "",
+      "updatedAt": "2025-11-10T17:35:11.395137",
+      "oct": {
+        "customer": "2",
+        "revenue": 1252000,
+        "type": "－"
+      },
+      "nov": {
+        "customer": "2",
+        "revenue": 1252000,
+        "type": "－"
+      },
+      "dec": {
+        "customer": "2",
+        "revenue": 1252000,
+        "type": ""
+      },
+      "jan": {
+        "customer": "",
+        "revenue": 0,
+        "type": ""
+      },
+      "feb": {
+        "customer": "",
+        "revenue": 0,
+        "type": ""
+      },
+      "mar": {
+        "customer": "",
+        "revenue": 0,
+        "type": ""
+      },
+      "apr": {
+        "customer": "",
+        "revenue": 0,
+        "type": ""
+      },
+      "may": {
+        "customer": "",
+        "revenue": 0,
+        "type": ""
+      },
+      "jun": {
+        "customer": "",
+        "revenue": 0,
+        "type": ""
+      },
+      "jul": {
+        "customer": "",
+        "revenue": 0,
+        "type": ""
+      },
+      "aug": {
+        "customer": "",
+        "revenue": 0,
+        "type": ""
+      },
+      "sep": {
+        "customer": "",
+        "revenue": 0,
+        "type": ""
+      }
+    },
+    {
+      "id": "1762763711551",
+      "name": "税込",
+      "dept": "－",
+      "updatedAt": "2025-11-10T17:35:11.395137",
+      "oct": {
+        "customer": "－",
+        "revenue": 1377200,
+        "type": "－"
+      },
+      "nov": {
+        "customer": "－",
+        "revenue": 1377200,
+        "type": "－"
+      },
+      "dec": {
+        "customer": "－",
+        "revenue": 1377200,
+        "type": "－"
+      },
+      "jan": {
+        "customer": "－",
+        "revenue": 0,
+        "type": "－"
+      },
+      "feb": {
+        "customer": "－",
+        "revenue": 0,
+        "type": "－"
+      },
+      "mar": {
+        "customer": "－",
+        "revenue": 0,
+        "type": "－"
+      },
+      "apr": {
+        "customer": "－",
+        "revenue": 0,
+        "type": "－"
+      },
+      "may": {
+        "customer": "－",
+        "revenue": 0,
+        "type": "－"
+      },
+      "jun": {
+        "customer": "－",
+        "revenue": 0,
+        "type": "－"
+      },
+      "jul": {
+        "customer": "－",
+        "revenue": 0,
+        "type": "－"
+      },
+      "aug": {
+        "customer": "－",
+        "revenue": 0,
+        "type": "－"
+      },
+      "sep": {
+        "customer": "－",
+        "revenue": 0,
+        "type": "－"
+      }
+    },
+    {
+      "id": "1762763711552",
+      "name": "合計",
+      "dept": "",
+      "updatedAt": "2025-11-10T17:35:11.395137",
+      "oct": {
+        "customer": "3",
+        "revenue": 1800000,
+        "type": "－"
+      },
+      "nov": {
+        "customer": "3",
+        "revenue": 1800000,
+        "type": "－"
+      },
+      "dec": {
+        "customer": "3",
+        "revenue": 1800000,
+        "type": ""
+      },
+      "jan": {
+        "customer": "",
+        "revenue": 0,
+        "type": ""
+      },
+      "feb": {
+        "customer": "",
+        "revenue": 0,
+        "type": ""
+      },
+      "mar": {
+        "customer": "",
+        "revenue": 0,
+        "type": ""
+      },
+      "apr": {
+        "customer": "",
+        "revenue": 0,
+        "type": ""
+      },
+      "may": {
+        "customer": "",
+        "revenue": 0,
+        "type": ""
+      },
+      "jun": {
+        "customer": "",
+        "revenue": 0,
+        "type": ""
+      },
+      "jul": {
+        "customer": "",
+        "revenue": 0,
+        "type": ""
+      },
+      "aug": {
+        "customer": "",
+        "revenue": 0,
+        "type": ""
+      },
+      "sep": {
+        "customer": "",
+        "revenue": 0,
+        "type": ""
+      }
+    },
+    {
+      "id": "1762763711553",
+      "name": "税込",
+      "dept": "－",
+      "updatedAt": "2025-11-10T17:35:11.395137",
+      "oct": {
+        "customer": "－",
+        "revenue": 1980000,
+        "type": "－"
+      },
+      "nov": {
+        "customer": "－",
+        "revenue": 1980000,
+        "type": "－"
+      },
+      "dec": {
+        "customer": "－",
+        "revenue": 1980000,
+        "type": "－"
+      },
+      "jan": {
+        "customer": "－",
+        "revenue": 0,
+        "type": "－"
+      },
+      "feb": {
+        "customer": "－",
+        "revenue": 0,
+        "type": "－"
+      },
+      "mar": {
+        "customer": "－",
+        "revenue": 0,
+        "type": "－"
+      },
+      "apr": {
+        "customer": "－",
+        "revenue": 0,
+        "type": "－"
+      },
+      "may": {
+        "customer": "－",
+        "revenue": 0,
+        "type": "－"
+      },
+      "jun": {
+        "customer": "－",
+        "revenue": 0,
+        "type": "－"
+      },
+      "jul": {
+        "customer": "－",
+        "revenue": 0,
+        "type": "－"
+      },
+      "aug": {
+        "customer": "－",
+        "revenue": 0,
+        "type": "－"
+      },
+      "sep": {
+        "customer": "－",
+        "revenue": 0,
+        "type": "－"
+      }
+    },
+    {
+      "id": "1762763711554",
+      "name": "合計",
+      "dept": "",
+      "updatedAt": "2025-11-10T17:35:11.395137",
+      "oct": {
+        "customer": "7",
+        "revenue": 4135000,
+        "type": "－"
+      },
+      "nov": {
+        "customer": "7",
+        "revenue": 4135000,
+        "type": "－"
+      },
+      "dec": {
+        "customer": "7",
+        "revenue": 4135000,
+        "type": ""
+      },
+      "jan": {
+        "customer": "",
+        "revenue": 0,
+        "type": ""
+      },
+      "feb": {
+        "customer": "",
+        "revenue": 0,
+        "type": ""
+      },
+      "mar": {
+        "customer": "",
+        "revenue": 0,
+        "type": ""
+      },
+      "apr": {
+        "customer": "",
+        "revenue": 0,
+        "type": ""
+      },
+      "may": {
+        "customer": "",
+        "revenue": 0,
+        "type": ""
+      },
+      "jun": {
+        "customer": "",
+        "revenue": 0,
+        "type": ""
+      },
+      "jul": {
+        "customer": "",
+        "revenue": 0,
+        "type": ""
+      },
+      "aug": {
+        "customer": "",
+        "revenue": 0,
+        "type": ""
+      },
+      "sep": {
+        "customer": "",
+        "revenue": 0,
+        "type": ""
+      }
+    },
+    {
+      "id": "1762763711555",
+      "name": "税込",
+      "dept": "－",
+      "updatedAt": "2025-11-10T17:35:11.395137",
+      "oct": {
+        "customer": "－",
+        "revenue": 4548500,
+        "type": "－"
+      },
+      "nov": {
+        "customer": "－",
+        "revenue": 4548500,
+        "type": "－"
+      },
+      "dec": {
+        "customer": "－",
+        "revenue": 4548500,
+        "type": "－"
+      },
+      "jan": {
+        "customer": "－",
+        "revenue": 0,
+        "type": "－"
+      },
+      "feb": {
+        "customer": "－",
+        "revenue": 0,
+        "type": "－"
+      },
+      "mar": {
+        "customer": "－",
+        "revenue": 0,
+        "type": "－"
+      },
+      "apr": {
+        "customer": "－",
+        "revenue": 0,
+        "type": "－"
+      },
+      "may": {
+        "customer": "－",
+        "revenue": 0,
+        "type": "－"
+      },
+      "jun": {
+        "customer": "－",
+        "revenue": 0,
+        "type": "－"
+      },
+      "jul": {
+        "customer": "－",
+        "revenue": 0,
+        "type": "－"
+      },
+      "aug": {
+        "customer": "－",
+        "revenue": 0,
+        "type": "－"
+      },
+      "sep": {
+        "customer": "－",
+        "revenue": 0,
+        "type": "－"
+      }
+    },
+    {
+      "id": "1762763711556",
+      "name": "合計",
+      "dept": "",
+      "updatedAt": "2025-11-10T17:35:11.395137",
+      "oct": {
+        "customer": "1",
+        "revenue": 500000,
+        "type": "－"
+      },
+      "nov": {
+        "customer": "1",
+        "revenue": 500000,
+        "type": "－"
+      },
+      "dec": {
+        "customer": "1",
+        "revenue": 500000,
+        "type": ""
+      },
+      "jan": {
+        "customer": "",
+        "revenue": 0,
+        "type": ""
+      },
+      "feb": {
+        "customer": "",
+        "revenue": 0,
+        "type": ""
+      },
+      "mar": {
+        "customer": "",
+        "revenue": 0,
+        "type": ""
+      },
+      "apr": {
+        "customer": "",
+        "revenue": 0,
+        "type": ""
+      },
+      "may": {
+        "customer": "",
+        "revenue": 0,
+        "type": ""
+      },
+      "jun": {
+        "customer": "",
+        "revenue": 0,
+        "type": ""
+      },
+      "jul": {
+        "customer": "",
+        "revenue": 0,
+        "type": ""
+      },
+      "aug": {
+        "customer": "",
+        "revenue": 0,
+        "type": ""
+      },
+      "sep": {
+        "customer": "",
+        "revenue": 0,
+        "type": ""
+      }
+    },
+    {
+      "id": "1762763711557",
+      "name": "税込",
+      "dept": "－",
+      "updatedAt": "2025-11-10T17:35:11.395137",
+      "oct": {
+        "customer": "－",
+        "revenue": 550000,
+        "type": "－"
+      },
+      "nov": {
+        "customer": "－",
+        "revenue": 550000,
+        "type": "－"
+      },
+      "dec": {
+        "customer": "－",
+        "revenue": 550000,
+        "type": "－"
+      },
+      "jan": {
+        "customer": "－",
+        "revenue": 0,
+        "type": "－"
+      },
+      "feb": {
+        "customer": "－",
+        "revenue": 0,
+        "type": "－"
+      },
+      "mar": {
+        "customer": "－",
+        "revenue": 0,
+        "type": "－"
+      },
+      "apr": {
+        "customer": "－",
+        "revenue": 0,
+        "type": "－"
+      },
+      "may": {
+        "customer": "－",
+        "revenue": 0,
+        "type": "－"
+      },
+      "jun": {
+        "customer": "－",
+        "revenue": 0,
+        "type": "－"
+      },
+      "jul": {
+        "customer": "－",
+        "revenue": 0,
+        "type": "－"
+      },
+      "aug": {
+        "customer": "－",
+        "revenue": 0,
+        "type": "－"
+      },
+      "sep": {
+        "customer": "－",
+        "revenue": 0,
+        "type": "－"
+      }
+    },
+    {
+      "id": "1762763711558",
+      "name": "合計",
+      "dept": "",
+      "updatedAt": "2025-11-10T17:35:11.395137",
+      "oct": {
+        "customer": "2",
+        "revenue": 1460000,
+        "type": "－"
+      },
+      "nov": {
+        "customer": "2",
+        "revenue": 1460000,
+        "type": "－"
+      },
+      "dec": {
+        "customer": "2",
+        "revenue": 1460000,
+        "type": ""
+      },
+      "jan": {
+        "customer": "",
+        "revenue": 0,
+        "type": ""
+      },
+      "feb": {
+        "customer": "",
+        "revenue": 0,
+        "type": ""
+      },
+      "mar": {
+        "customer": "",
+        "revenue": 0,
+        "type": ""
+      },
+      "apr": {
+        "customer": "",
+        "revenue": 0,
+        "type": ""
+      },
+      "may": {
+        "customer": "",
+        "revenue": 0,
+        "type": ""
+      },
+      "jun": {
+        "customer": "",
+        "revenue": 0,
+        "type": ""
+      },
+      "jul": {
+        "customer": "",
+        "revenue": 0,
+        "type": ""
+      },
+      "aug": {
+        "customer": "",
+        "revenue": 0,
+        "type": ""
+      },
+      "sep": {
+        "customer": "",
+        "revenue": 0,
+        "type": ""
+      }
+    },
+    {
+      "id": "1762763711559",
+      "name": "税込",
+      "dept": "－",
+      "updatedAt": "2025-11-10T17:35:11.395137",
+      "oct": {
+        "customer": "－",
+        "revenue": 1606000,
+        "type": "－"
+      },
+      "nov": {
+        "customer": "－",
+        "revenue": 1606000,
+        "type": "－"
+      },
+      "dec": {
+        "customer": "－",
+        "revenue": 1606000,
+        "type": "－"
+      },
+      "jan": {
+        "customer": "－",
+        "revenue": 0,
+        "type": "－"
+      },
+      "feb": {
+        "customer": "－",
+        "revenue": 0,
+        "type": "－"
+      },
+      "mar": {
+        "customer": "－",
+        "revenue": 0,
+        "type": "－"
+      },
+      "apr": {
+        "customer": "－",
+        "revenue": 0,
+        "type": "－"
+      },
+      "may": {
+        "customer": "－",
+        "revenue": 0,
+        "type": "－"
+      },
+      "jun": {
+        "customer": "－",
+        "revenue": 0,
+        "type": "－"
+      },
+      "jul": {
+        "customer": "－",
+        "revenue": 0,
+        "type": "－"
+      },
+      "aug": {
+        "customer": "－",
+        "revenue": 0,
+        "type": "－"
+      },
+      "sep": {
+        "customer": "－",
+        "revenue": 0,
+        "type": "－"
+      }
+    },
+    {
+      "id": "1762763711560",
+      "name": "合計",
+      "dept": "",
+      "updatedAt": "2025-11-10T17:35:11.395137",
+      "oct": {
+        "customer": "2",
+        "revenue": 1180000,
+        "type": "－"
+      },
+      "nov": {
+        "customer": "2",
+        "revenue": 1180000,
+        "type": "－"
+      },
+      "dec": {
+        "customer": "2",
+        "revenue": 1180000,
+        "type": ""
+      },
+      "jan": {
+        "customer": "",
+        "revenue": 0,
+        "type": ""
+      },
+      "feb": {
+        "customer": "",
+        "revenue": 0,
+        "type": ""
+      },
+      "mar": {
+        "customer": "",
+        "revenue": 0,
+        "type": ""
+      },
+      "apr": {
+        "customer": "",
+        "revenue": 0,
+        "type": ""
+      },
+      "may": {
+        "customer": "",
+        "revenue": 0,
+        "type": ""
+      },
+      "jun": {
+        "customer": "",
+        "revenue": 0,
+        "type": ""
+      },
+      "jul": {
+        "customer": "",
+        "revenue": 0,
+        "type": ""
+      },
+      "aug": {
+        "customer": "",
+        "revenue": 0,
+        "type": ""
+      },
+      "sep": {
+        "customer": "",
+        "revenue": 0,
+        "type": ""
+      }
+    },
+    {
+      "id": "1762763711561",
+      "name": "税込",
+      "dept": "－",
+      "updatedAt": "2025-11-10T17:35:11.395137",
+      "oct": {
+        "customer": "－",
+        "revenue": 1298000,
+        "type": "－"
+      },
+      "nov": {
+        "customer": "－",
+        "revenue": 1298000,
+        "type": "－"
+      },
+      "dec": {
+        "customer": "－",
+        "revenue": 1298000,
+        "type": "－"
+      },
+      "jan": {
+        "customer": "－",
+        "revenue": 0,
+        "type": "－"
+      },
+      "feb": {
+        "customer": "－",
+        "revenue": 0,
+        "type": "－"
+      },
+      "mar": {
+        "customer": "－",
+        "revenue": 0,
+        "type": "－"
+      },
+      "apr": {
+        "customer": "－",
+        "revenue": 0,
+        "type": "－"
+      },
+      "may": {
+        "customer": "－",
+        "revenue": 0,
+        "type": "－"
+      },
+      "jun": {
+        "customer": "－",
+        "revenue": 0,
+        "type": "－"
+      },
+      "jul": {
+        "customer": "－",
+        "revenue": 0,
+        "type": "－"
+      },
+      "aug": {
+        "customer": "－",
+        "revenue": 0,
+        "type": "－"
+      },
+      "sep": {
+        "customer": "－",
+        "revenue": 0,
+        "type": "－"
+      }
+    },
+    {
+      "id": "1762763711580",
+      "name": "合計",
+      "dept": "",
+      "updatedAt": "2025-11-10T17:35:11.395137",
+      "oct": {
+        "customer": "48",
+        "revenue": 29994000,
+        "type": "－"
+      },
+      "nov": {
+        "customer": "52",
+        "revenue": 31374000,
+        "type": "－"
+      },
+      "dec": {
+        "customer": "52",
+        "revenue": 31374000,
+        "type": ""
+      },
+      "jan": {
+        "customer": "",
+        "revenue": 0,
+        "type": ""
+      },
+      "feb": {
+        "customer": "",
+        "revenue": 0,
+        "type": ""
+      },
+      "mar": {
+        "customer": "",
+        "revenue": 0,
+        "type": ""
+      },
+      "apr": {
+        "customer": "",
+        "revenue": 0,
+        "type": ""
+      },
+      "may": {
+        "customer": "",
+        "revenue": 0,
+        "type": ""
+      },
+      "jun": {
+        "customer": "",
+        "revenue": 0,
+        "type": ""
+      },
+      "jul": {
+        "customer": "",
+        "revenue": 0,
+        "type": ""
+      },
+      "aug": {
+        "customer": "",
+        "revenue": 0,
+        "type": ""
+      },
+      "sep": {
+        "customer": "",
+        "revenue": 0,
+        "type": ""
+      }
+    },
+    {
+      "id": "1762763711583",
+      "name": "税込",
+      "dept": "－",
+      "updatedAt": "2025-11-10T17:35:11.397647",
+      "oct": {
+        "customer": "－",
+        "revenue": 32993400,
+        "type": "－"
+      },
+      "nov": {
+        "customer": "－",
+        "revenue": 34511400,
+        "type": "－"
+      },
+      "dec": {
+        "customer": "－",
+        "revenue": 34511400,
+        "type": "－"
+      },
+      "jan": {
+        "customer": "－",
+        "revenue": 0,
+        "type": "－"
+      },
+      "feb": {
+        "customer": "－",
+        "revenue": 0,
+        "type": "－"
+      },
+      "mar": {
+        "customer": "－",
+        "revenue": 0,
+        "type": "－"
+      },
+      "apr": {
+        "customer": "－",
+        "revenue": 0,
+        "type": "－"
+      },
+      "may": {
+        "customer": "－",
+        "revenue": 0,
+        "type": "－"
+      },
+      "jun": {
+        "customer": "－",
+        "revenue": 0,
+        "type": "－"
+      },
+      "jul": {
+        "customer": "－",
+        "revenue": 0,
+        "type": "－"
+      },
+      "aug": {
+        "customer": "－",
+        "revenue": 0,
+        "type": "－"
+      },
+      "sep": {
+        "customer": "－",
+        "revenue": 0,
+        "type": "－"
+      }
+    }
+  ],
+  "partners": [
+    {
+      "id": "1762763721409",
+      "name": "ALA高塚",
+      "company": "",
+      "updatedAt": "2025-11-10T17:35:11.397647",
+      "oct": {
+        "cost": 360000
+      },
+      "nov": {
+        "cost": 360000
+      },
+      "dec": {
+        "cost": 360000
+      },
+      "jan": {
+        "cost": 0
+      },
+      "feb": {
+        "cost": 0
+      },
+      "mar": {
+        "cost": 0
+      },
+      "apr": {
+        "cost": 0
+      },
+      "may": {
+        "cost": 0
+      },
+      "jun": {
+        "cost": 0
+      },
+      "jul": {
+        "cost": 0
+      },
+      "aug": {
+        "cost": 0
+      },
+      "sep": {
+        "cost": 0
+      }
+    },
+    {
+      "id": "1762763721425",
+      "name": "池上通信機A",
+      "company": "",
+      "updatedAt": "2025-11-10T17:35:11.397647",
+      "oct": {
+        "cost": 0
+      },
+      "nov": {
+        "cost": 600000
+      },
+      "dec": {
+        "cost": 600000
+      },
+      "jan": {
+        "cost": 0
+      },
+      "feb": {
+        "cost": 0
+      },
+      "mar": {
+        "cost": 0
+      },
+      "apr": {
+        "cost": 0
+      },
+      "may": {
+        "cost": 0
+      },
+      "jun": {
+        "cost": 0
+      },
+      "jul": {
+        "cost": 0
+      },
+      "aug": {
+        "cost": 0
+      },
+      "sep": {
+        "cost": 0
+      }
+    },
+    {
+      "id": "1762763721427",
+      "name": "IAIA",
+      "company": "",
+      "updatedAt": "2025-11-10T17:35:11.397647",
+      "oct": {
+        "cost": 0
+      },
+      "nov": {
+        "cost": 600000
+      },
+      "dec": {
+        "cost": 600000
+      },
+      "jan": {
+        "cost": 600000
+      },
+      "feb": {
+        "cost": 0
+      },
+      "mar": {
+        "cost": 0
+      },
+      "apr": {
+        "cost": 0
+      },
+      "may": {
+        "cost": 0
+      },
+      "jun": {
+        "cost": 0
+      },
+      "jul": {
+        "cost": 0
+      },
+      "aug": {
+        "cost": 0
+      },
+      "sep": {
+        "cost": 0
+      }
+    },
+    {
+      "id": "1762763721428",
+      "name": "IAIB",
+      "company": "",
+      "updatedAt": "2025-11-10T17:35:11.397647",
+      "oct": {
+        "cost": 0
+      },
+      "nov": {
+        "cost": 600000
+      },
+      "dec": {
+        "cost": 600000
+      },
+      "jan": {
+        "cost": 600000
+      },
+      "feb": {
+        "cost": 0
+      },
+      "mar": {
+        "cost": 0
+      },
+      "apr": {
+        "cost": 0
+      },
+      "may": {
+        "cost": 0
+      },
+      "jun": {
+        "cost": 0
+      },
+      "jul": {
+        "cost": 0
+      },
+      "aug": {
+        "cost": 0
+      },
+      "sep": {
+        "cost": 0
+      }
+    }
+  ],
+  "expenses": {
+    "oct": {
+      "salary": 0,
+      "insurance": 0,
+      "personalExpense": 0
+    },
+    "nov": {
+      "salary": 0,
+      "insurance": 0,
+      "personalExpense": 0
+    },
+    "dec": {
+      "salary": 0,
+      "insurance": 0,
+      "personalExpense": 0
+    },
+    "jan": {
+      "salary": 0,
+      "insurance": 0,
+      "personalExpense": 0
+    },
+    "feb": {
+      "salary": 0,
+      "insurance": 0,
+      "personalExpense": 0
+    },
+    "mar": {
+      "salary": 0,
+      "insurance": 0,
+      "personalExpense": 0
+    },
+    "apr": {
+      "salary": 0,
+      "insurance": 0,
+      "personalExpense": 0
+    },
+    "may": {
+      "salary": 0,
+      "insurance": 0,
+      "personalExpense": 0
+    },
+    "jun": {
+      "salary": 0,
+      "insurance": 0,
+      "personalExpense": 0
+    },
+    "jul": {
+      "salary": 0,
+      "insurance": 0,
+      "personalExpense": 0
+    },
+    "aug": {
+      "salary": 0,
+      "insurance": 0,
+      "personalExpense": 0
+    },
+    "sep": {
+      "salary": 0,
+      "insurance": 0,
+      "personalExpense": 0
+    }
+  },
+  "exportedAt": "2025-11-10T17:35:11.397647",
+  "version": "2.1",
+  "period": "第21期（2025年10月～2026年9月）"
+}

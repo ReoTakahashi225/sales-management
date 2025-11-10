@@ -1,0 +1,20 @@
+{
+  "permissions": {
+    "allow": [
+      "Bash(python:*)",
+      "Bash(start sales-management.html)",
+      "Bash(more:*)",
+      "Bash(output.txt)",
+      "Bash(copy sales-management.html index.html)",
+      "Bash(git init:*)",
+      "Bash(git add:*)",
+      "Bash(git commit -m \"$(cat <<''EOF''\nInitial commit: 売上実績管理システム\n\n- ダッシュボード機能（グラフ表示）\n- 社員売上管理（BP含む）\n- BP原価管理\n- 支出管理\n- 目標管理\n- 月次報告\n- データインポート/エクスポート\n\n🤖 Generated with [Claude Code](https://claude.com/claude-code)\n\nCo-Authored-By: Claude <noreply@anthropic.com>\nEOF\n)\")",
+      "Bash(git remote add:*)",
+      "Bash(git branch:*)",
+      "Bash(git push:*)",
+      "Bash(git commit:*)"
+    ],
+    "deny": [],
+    "ask": []
+  }
+}
