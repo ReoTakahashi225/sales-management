@@ -1,0 +1,16 @@
+{
+  "name": "sales-management-system",
+  "version": "2.1.0",
+  "description": "売上実績管理システム - コスモステクノ静岡",
+  "scripts": {
+    "dev": "python -m http.server 8000",
+    "convert": "python convert_to_json.py"
+  },
+  "keywords": [
+    "sales",
+    "management",
+    "dashboard"
+  ],
+  "author": "Cosmo Techno Shizuoka",
+  "private": true
+}

@@ -1,0 +1,994 @@
+<!DOCTYPE html>
+<html lang="ja">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>売上実績管理システム</title>
+    <style>
+        * {
+            margin: 0;
+            padding: 0;
+            box-sizing: border-box;
+        }
+
+        body {
+            font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', 'Hiragino Sans', 'Hiragino Kaku Gothic ProN', Meiryo, sans-serif;
+            background: #f5f5f5;
+            padding: 20px;
+            line-height: 1.6;
+        }
+
+        .container {
+            max-width: 1400px;
+            margin: 0 auto;
+            background: white;
+            border-radius: 8px;
+            box-shadow: 0 2px 4px rgba(0,0,0,0.1);
+            overflow: hidden;
+        }
+
+        .header {
+            background: #2c3e50;
+            color: white;
+            padding: 20px 30px;
+            border-bottom: 3px solid #3498db;
+        }
+
+        .header h1 {
+            font-size: 24px;
+            font-weight: 600;
+        }
+
+        .header p {
+            font-size: 14px;
+            margin-top: 5px;
+            opacity: 0.9;
+        }
+
+        .tabs {
+            display: flex;
+            background: #ecf0f1;
+            border-bottom: 1px solid #bdc3c7;
+            overflow-x: auto;
+        }
+
+        .tab {
+            padding: 15px 20px;
+            text-align: center;
+            cursor: pointer;
+            border: none;
+            background: transparent;
+            font-size: 14px;
+            color: #7f8c8d;
+            transition: all 0.2s;
+            border-bottom: 3px solid transparent;
+            white-space: nowrap;
+        }
+
+        .tab:hover {
+            background: #dfe6e9;
+        }
+
+        .tab.active {
+            background: white;
+            color: #2c3e50;
+            border-bottom-color: #3498db;
+        }
+
+        .tab-content {
+            display: none;
+            padding: 30px;
+        }
+
+        .tab-content.active {
+            display: block;
+        }
+
+        .action-bar {
+            display: flex;
+            gap: 10px;
+            margin-bottom: 20px;
+            flex-wrap: wrap;
+            align-items: center;
+        }
+
+        .btn {
+            padding: 10px 20px;
+            border: none;
+            border-radius: 4px;
+            font-size: 14px;
+            cursor: pointer;
+            transition: all 0.2s;
+            background: white;
+            border: 1px solid #bdc3c7;
+            color: #2c3e50;
+        }
+
+        .btn:hover {
+            background: #ecf0f1;
+        }
+
+        .btn-primary {
+            background: #3498db;
+            color: white;
+            border-color: #3498db;
+        }
+
+        .btn-primary:hover {
+            background: #2980b9;
+        }
+
+        .btn-success {
+            background: #27ae60;
+            color: white;
+            border-color: #27ae60;
+        }
+
+        .btn-success:hover {
+            background: #229954;
+        }
+
+        .btn-danger {
+            background: #e74c3c;
+            color: white;
+            border-color: #e74c3c;
+        }
+
+        .btn-danger:hover {
+            background: #c0392b;
+        }
+
+        .stats-grid {
+            display: grid;
+            grid-template-columns: repeat(auto-fit, minmax(200px, 1fr));
+            gap: 15px;
+            margin-bottom: 30px;
+        }
+
+        .stat-card {
+            background: white;
+            padding: 20px;
+            border-radius: 4px;
+            border: 1px solid #ecf0f1;
+        }
+
+        .stat-card h3 {
+            font-size: 13px;
+            color: #7f8c8d;
+            margin-bottom: 10px;
+            font-weight: 500;
+        }
+
+        .stat-card .value {
+            font-size: 24px;
+            font-weight: 600;
+            color: #2c3e50;
+        }
+
+        table {
+            width: 100%;
+            border-collapse: collapse;
+            margin-top: 20px;
+            background: white;
+            font-size: 13px;
+        }
+
+        thead {
+            background: #ecf0f1;
+            position: sticky;
+            top: 0;
+            z-index: 10;
+        }
+
+        th {
+            padding: 10px 8px;
+            text-align: left;
+            font-weight: 600;
+            font-size: 12px;
+            color: #2c3e50;
+            border-bottom: 2px solid #bdc3c7;
+        }
+
+        td {
+            padding: 10px 8px;
+            border-bottom: 1px solid #ecf0f1;
+            font-size: 13px;
+        }
+
+        tbody tr:hover {
+            background: #f8f9fa;
+        }
+
+        input[type="text"],
+        input[type="number"],
+        input[type="file"],
+        select,
+        textarea {
+            width: 100%;
+            padding: 8px;
+            border: 1px solid #bdc3c7;
+            border-radius: 4px;
+            font-size: 14px;
+            font-family: inherit;
+        }
+
+        input[type="text"]:focus,
+        input[type="number"]:focus,
+        select:focus,
+        textarea:focus {
+            outline: none;
+            border-color: #3498db;
+        }
+
+        .modal {
+            display: none;
+            position: fixed;
+            top: 0;
+            left: 0;
+            width: 100%;
+            height: 100%;
+            background: rgba(0,0,0,0.5);
+            z-index: 1000;
+            overflow-y: auto;
+            padding: 20px;
+        }
+
+        .modal.active {
+            display: block;
+        }
+
+        .modal-content {
+            background: white;
+            padding: 30px;
+            border-radius: 8px;
+            max-width: 900px;
+            margin: 0 auto;
+        }
+
+        .modal-header {
+            font-size: 20px;
+            font-weight: 600;
+            margin-bottom: 20px;
+            color: #2c3e50;
+            padding-bottom: 15px;
+            border-bottom: 2px solid #ecf0f1;
+            display: flex;
+            justify-content: space-between;
+            align-items: center;
+        }
+
+        .close-btn {
+            font-size: 28px;
+            color: #7f8c8d;
+            cursor: pointer;
+            line-height: 1;
+        }
+
+        .close-btn:hover {
+            color: #2c3e50;
+        }
+
+        .form-group {
+            margin-bottom: 15px;
+        }
+
+        .form-group label {
+            display: block;
+            margin-bottom: 5px;
+            font-weight: 500;
+            color: #2c3e50;
+            font-size: 13px;
+        }
+
+        .form-row {
+            display: grid;
+            grid-template-columns: repeat(auto-fit, minmax(200px, 1fr));
+            gap: 15px;
+            margin-bottom: 20px;
+        }
+
+        .month-tabs {
+            display: flex;
+            gap: 5px;
+            margin: 20px 0;
+            flex-wrap: wrap;
+            border-bottom: 2px solid #ecf0f1;
+            padding-bottom: 10px;
+        }
+
+        .month-tab {
+            padding: 8px 16px;
+            border: 1px solid #bdc3c7;
+            border-radius: 4px 4px 0 0;
+            background: white;
+            cursor: pointer;
+            font-size: 13px;
+            color: #7f8c8d;
+            transition: all 0.2s;
+            border-bottom: none;
+        }
+
+        .month-tab:hover {
+            background: #ecf0f1;
+        }
+
+        .month-tab.active {
+            background: #3498db;
+            color: white;
+            border-color: #3498db;
+        }
+
+        .month-content {
+            display: none;
+            padding: 20px;
+            background: #f8f9fa;
+            border-radius: 4px;
+            margin-bottom: 15px;
+        }
+
+        .month-content.active {
+            display: block;
+        }
+
+        .quick-fill {
+            background: #e8f5e9;
+            padding: 15px;
+            border-radius: 4px;
+            margin-bottom: 20px;
+            border-left: 4px solid #4caf50;
+        }
+
+        .quick-fill-buttons {
+            display: flex;
+            gap: 10px;
+            flex-wrap: wrap;
+            margin-top: 10px;
+        }
+
+        .search-box {
+            position: relative;
+            flex: 1;
+            max-width: 300px;
+        }
+
+        .search-box input {
+            width: 100%;
+            padding-right: 35px;
+        }
+
+        .search-box::after {
+            content: '🔍';
+            position: absolute;
+            right: 12px;
+            top: 50%;
+            transform: translateY(-50%);
+            font-size: 14px;
+        }
+
+        .badge {
+            display: inline-block;
+            padding: 4px 10px;
+            border-radius: 3px;
+            font-size: 11px;
+            font-weight: 500;
+        }
+
+        .badge-info {
+            background: #e3f2fd;
+            color: #1976d2;
+        }
+
+        .badge-warning {
+            background: #fff3e0;
+            color: #f57c00;
+        }
+
+        .report-section {
+            margin-bottom: 30px;
+        }
+
+        .report-section h3 {
+            font-size: 16px;
+            color: #2c3e50;
+            margin-bottom: 15px;
+            padding-bottom: 10px;
+            border-bottom: 2px solid #ecf0f1;
+            font-weight: 600;
+        }
+
+        .icon-btn {
+            padding: 6px 10px;
+            border: none;
+            background: transparent;
+            cursor: pointer;
+            font-size: 16px;
+            border-radius: 4px;
+        }
+
+        .icon-btn:hover {
+            background: #ecf0f1;
+        }
+
+        .table-wrapper {
+            overflow-x: auto;
+            max-height: 600px;
+            overflow-y: auto;
+        }
+
+        .button-group {
+            display: flex;
+            gap: 10px;
+            justify-content: flex-end;
+            margin-top: 20px;
+            position: sticky;
+            bottom: 0;
+            background: white;
+            padding: 15px 0;
+            border-top: 2px solid #ecf0f1;
+        }
+
+        .info-box {
+            background: #e8f5e9;
+            padding: 15px;
+            border-radius: 4px;
+            margin-bottom: 20px;
+            border-left: 4px solid #4caf50;
+        }
+
+        .info-box p {
+            margin: 5px 0;
+            font-size: 13px;
+            color: #2c3e50;
+        }
+
+        .help-text {
+            font-size: 12px;
+            color: #7f8c8d;
+            margin-top: 5px;
+        }
+
+        .copy-notice {
+            background: #fff3cd;
+            padding: 10px;
+            border-radius: 4px;
+            font-size: 13px;
+            color: #856404;
+            margin-bottom: 15px;
+            border-left: 4px solid #ffc107;
+        }
+
+        @media (max-width: 768px) {
+            .stats-grid {
+                grid-template-columns: 1fr;
+            }
+            
+            .action-bar {
+                flex-direction: column;
+            }
+            
+            .tab {
+                font-size: 12px;
+                padding: 12px;
+            }
+
+            .search-box {
+                max-width: 100%;
+            }
+
+            .modal-content {
+                padding: 20px;
+            }
+        }
+
+        .tooltip {
+            position: relative;
+            display: inline-block;
+            cursor: help;
+        }
+
+        .tooltip:hover::after {
+            content: attr(data-tooltip);
+            position: absolute;
+            bottom: 100%;
+            left: 50%;
+            transform: translateX(-50%);
+            background: #2c3e50;
+            color: white;
+            padding: 8px;
+            border-radius: 4px;
+            white-space: nowrap;
+            font-size: 12px;
+            z-index: 1000;
+        }
+
+        .loading {
+            display: none;
+            text-align: center;
+            padding: 20px;
+            color: #7f8c8d;
+        }
+
+        .loading.active {
+            display: block;
+        }
+
+        .year-display {
+            display: inline-block;
+            padding: 4px 8px;
+            background: #ecf0f1;
+            border-radius: 3px;
+            font-size: 11px;
+            margin-left: 5px;
+            color: #7f8c8d;
+        }
+
+        .bulk-edit-input {
+            padding: 4px 8px;
+            border: 1px solid #bdc3c7;
+            border-radius: 3px;
+            font-size: 13px;
+            font-family: inherit;
+        }
+
+        .bulk-edit-input:focus {
+            outline: none;
+            border-color: #3498db;
+            background: #f0f8ff;
+        }
+
+        #bulkEditTable td {
+            padding: 4px;
+        }
+
+        #bulkEditTable input[type="checkbox"] {
+            cursor: pointer;
+            width: 16px;
+            height: 16px;
+        }
+
+        .bulk-edit-partner-input {
+            padding: 4px 8px;
+            border: 1px solid #bdc3c7;
+            border-radius: 3px;
+            font-size: 13px;
+            font-family: inherit;
+        }
+
+        .bulk-edit-partner-input:focus {
+            outline: none;
+            border-color: #3498db;
+            background: #f0f8ff;
+        }
+
+        #bulkEditPartnerTable td {
+            padding: 4px;
+        }
+
+        #bulkEditPartnerTable input[type="checkbox"] {
+            cursor: pointer;
+            width: 16px;
+            height: 16px;
+        }
+    </style>
+</head>
+<body>
+    <div class="container">
+        <div class="header">
+            <h1>売上実績管理システム</h1>
+            <p>コスモステクノ静岡 第21期（2025年10月～2026年9月）</p>
+        </div>
+
+        <div class="tabs">
+            <button class="tab active" onclick="switchTab('dashboard')">ダッシュボード</button>
+            <button class="tab" onclick="switchTab('employees')">社員売上（BP含む）</button>
+            <button class="tab" onclick="switchTab('partners')">BP原価</button>
+            <button class="tab" onclick="switchTab('expenses')">支出管理</button>
+            <button class="tab" onclick="switchTab('targets')">目標管理</button>
+            <button class="tab" onclick="switchTab('report')">月次報告</button>
+            <button class="tab" onclick="switchTab('data')">データ管理</button>
+        </div>
+
+        <!-- ダッシュボードタブ -->
+        <div id="dashboard" class="tab-content active">
+            <div class="stats-grid">
+                <div class="stat-card">
+                    <h3>年間売上</h3>
+                    <div class="value" id="totalRevenue">¥0</div>
+                </div>
+                <div class="stat-card">
+                    <h3>社員売上</h3>
+                    <div class="value" id="employeeRevenue">¥0</div>
+                </div>
+                <div class="stat-card">
+                    <h3>BP原価</h3>
+                    <div class="value" id="partnerRevenue">¥0</div>
+                </div>
+                <div class="stat-card">
+                    <h3>年間支払額</h3>
+                    <div class="value" id="totalPayment">¥0</div>
+                </div>
+                <div class="stat-card" style="background: #e8f5e9;">
+                    <h3>年間粗利</h3>
+                    <div class="value" id="totalProfit" style="color: #2e7d32;">¥0</div>
+                </div>
+                <div class="stat-card">
+                    <h3>稼働人数</h3>
+                    <div class="value" id="activeCount">0名</div>
+                </div>
+                <div class="stat-card">
+                    <h3>平均月商（社員）</h3>
+                    <div class="value" id="avgRevenue">¥0</div>
+                </div>
+            </div>
+
+            <div class="report-section">
+                <h3>最近の更新</h3>
+                <div id="recentUpdates"></div>
+            </div>
+
+            <div class="report-section" style="margin-top: 30px;">
+                <h3>月次推移グラフ</h3>
+                <div style="background: white; padding: 20px; border-radius: 8px; box-shadow: 0 2px 4px rgba(0,0,0,0.1);">
+                    <canvas id="monthlyTrendChart"></canvas>
+                </div>
+            </div>
+        </div>
+
+        <!-- 社員売上タブ -->
+        <div id="employees" class="tab-content">
+            <div class="action-bar">
+                <button class="btn btn-primary" onclick="openEmployeeModal()">社員追加</button>
+                <button class="btn btn-primary" onclick="openPartnerModal()">BP追加</button>
+                <button class="btn btn-success" onclick="exportEmployeeData()">CSV出力</button>
+                <button class="btn" onclick="bulkEditEmployees()">一括編集</button>
+                <div class="search-box">
+                    <input type="text" id="employeeSearch" placeholder="検索..." onkeyup="filterEmployees()">
+                </div>
+            </div>
+
+            <div class="table-wrapper">
+                <table>
+                    <thead>
+                        <tr>
+                            <th style="position: sticky; left: 0; background: #ecf0f1; z-index: 11;">氏名</th>
+                            <th>区分</th>
+                            <th>10月<span class="year-display">2025</span></th>
+                            <th>11月<span class="year-display">2025</span></th>
+                            <th>12月<span class="year-display">2025</span></th>
+                            <th>1月<span class="year-display">2026</span></th>
+                            <th>2月<span class="year-display">2026</span></th>
+                            <th>3月<span class="year-display">2026</span></th>
+                            <th>4月<span class="year-display">2026</span></th>
+                            <th>5月<span class="year-display">2026</span></th>
+                            <th>6月<span class="year-display">2026</span></th>
+                            <th>7月<span class="year-display">2026</span></th>
+                            <th>8月<span class="year-display">2026</span></th>
+                            <th>9月<span class="year-display">2026</span></th>
+                            <th style="background: #fff3cd;">合計</th>
+                            <th>操作</th>
+                        </tr>
+                    </thead>
+                    <tbody id="employeeTableBody"></tbody>
+                </table>
+            </div>
+        </div>
+
+        <!-- BPタブ -->
+        <div id="partners" class="tab-content">
+            <div class="action-bar">
+                <button class="btn btn-primary" onclick="openPartnerModal()">BP追加</button>
+                <button class="btn btn-success" onclick="exportPartnerData()">CSV出力</button>
+                <button class="btn" onclick="bulkEditPartners()">一括編集</button>
+                <div class="search-box">
+                    <input type="text" id="partnerSearch" placeholder="検索..." onkeyup="filterPartners()">
+                </div>
+            </div>
+
+            <div class="table-wrapper">
+                <table>
+                    <thead>
+                        <tr>
+                            <th style="position: sticky; left: 0; background: #ecf0f1; z-index: 11;">氏名</th>
+                            <th>所属会社</th>
+                            <th>10月<span class="year-display">2025</span></th>
+                            <th>11月<span class="year-display">2025</span></th>
+                            <th>12月<span class="year-display">2025</span></th>
+                            <th>1月<span class="year-display">2026</span></th>
+                            <th>2月<span class="year-display">2026</span></th>
+                            <th>3月<span class="year-display">2026</span></th>
+                            <th>4月<span class="year-display">2026</span></th>
+                            <th>5月<span class="year-display">2026</span></th>
+                            <th>6月<span class="year-display">2026</span></th>
+                            <th>7月<span class="year-display">2026</span></th>
+                            <th>8月<span class="year-display">2026</span></th>
+                            <th>9月<span class="year-display">2026</span></th>
+                            <th style="background: #fff3cd;">合計</th>
+                            <th>操作</th>
+                        </tr>
+                    </thead>
+                    <tbody id="partnerTableBody"></tbody>
+                </table>
+            </div>
+        </div>
+
+        <!-- 支出管理タブ -->
+        <div id="expenses" class="tab-content">
+            <div class="action-bar">
+                <button class="btn" onclick="copyExpenseToPreviousMonth()">前月をコピー</button>
+                <button class="btn" onclick="copyExpenseToAllMonths()">全月に同じ内容を入力</button>
+            </div>
+
+            <div class="info-box">
+                <p><strong>💡 ヒント</strong></p>
+                <p>月ごとに給与支払、保険料、個人経費を入力してください。</p>
+                <p>各月の売上・支払額・粗利は自動計算されます。</p>
+            </div>
+
+            <div class="month-tabs" id="expenseMonthTabs"></div>
+            <div id="expenseMonthContents"></div>
+        </div>
+
+        <!-- 目標管理タブ -->
+        <div id="targets" class="tab-content">
+            <div class="info-box">
+                <p><strong>💡 目標売上管理</strong></p>
+                <p>各月の目標売上金額を入力してください。ダッシュボードのグラフに目標ラインが表示されます。</p>
+            </div>
+
+            <div style="background: white; padding: 20px; border-radius: 8px; box-shadow: 0 2px 4px rgba(0,0,0,0.1); margin-top: 20px;">
+                <h3>月別目標売上設定</h3>
+                <table style="width: 100%; margin-top: 15px;">
+                    <thead>
+                        <tr>
+                            <th>月</th>
+                            <th>目標売上</th>
+                        </tr>
+                    </thead>
+                    <tbody id="targetTableBody"></tbody>
+                </table>
+
+                <div style="margin-top: 20px; display: flex; gap: 10px;">
+                    <button class="btn btn-primary" onclick="saveTargets()">保存</button>
+                    <button class="btn" onclick="copyTargetToAll()">全月に同じ金額を設定</button>
+                </div>
+            </div>
+        </div>
+
+        <!-- 月次報告タブ -->
+        <div id="report" class="tab-content">
+            <div class="action-bar">
+                <button class="btn btn-success" onclick="exportReport()">レポート出力</button>
+            </div>
+
+            <div id="monthlyReport"></div>
+        </div>
+
+        <!-- データ管理タブ -->
+        <div id="data" class="tab-content">
+            <div class="action-bar">
+                <button class="btn btn-success" onclick="saveData()">データ保存</button>
+                <button class="btn btn-primary" onclick="downloadJSON()">JSON出力</button>
+                <button class="btn btn-danger" onclick="confirmClearData()">全データ削除</button>
+            </div>
+
+            <div class="form-group">
+                <label>JSONファイルから読み込み</label>
+                <input type="file" id="jsonFileInput" accept=".json" onchange="uploadJSON(event)">
+                <div class="help-text">以前エクスポートしたJSONファイルを読み込めます</div>
+            </div>
+
+            <div class="info-box">
+                <p><strong>社員データ件数:</strong> <span id="employeeCount">0</span></p>
+                <p><strong>BPデータ件数:</strong> <span id="partnerCount">0</span></p>
+                <p><strong>最終更新:</strong> <span id="lastUpdate">未保存</span></p>
+            </div>
+
+            <div class="report-section">
+                <h3>データプレビュー</h3>
+                <textarea id="jsonPreview" rows="15" readonly></textarea>
+            </div>
+        </div>
+    </div>
+
+    <!-- 社員追加/編集モーダル -->
+    <div id="employeeModal" class="modal">
+        <div class="modal-content">
+            <div class="modal-header">
+                <span>社員情報</span>
+                <span class="close-btn" onclick="closeEmployeeModal()">&times;</span>
+            </div>
+            
+            <form id="employeeForm">
+                <input type="hidden" id="employeeId">
+                
+                <div class="form-row">
+                    <div class="form-group">
+                        <label>社員名 *</label>
+                        <input type="text" id="employeeName" required autocomplete="off">
+                    </div>
+                    <div class="form-group">
+                        <label>所属 *</label>
+                        <input type="text" id="employeeDept" required autocomplete="off">
+                    </div>
+                </div>
+
+                <div class="quick-fill">
+                    <strong>💡 クイック入力</strong>
+                    <p class="help-text">前月データをコピーして効率的に入力できます</p>
+                    <div class="quick-fill-buttons">
+                        <button type="button" class="btn" onclick="copyPreviousMonth()">前月をコピー</button>
+                        <button type="button" class="btn" onclick="copyToAllMonths()">全月に同じ内容を入力</button>
+                        <button type="button" class="btn" onclick="clearAllMonths()">全月クリア</button>
+                    </div>
+                </div>
+
+                <div class="month-tabs" id="employeeMonthTabs"></div>
+                <div id="employeeMonthContents"></div>
+
+                <div class="button-group">
+                    <button type="button" class="btn" onclick="closeEmployeeModal()">キャンセル</button>
+                    <button type="submit" class="btn btn-primary">保存</button>
+                </div>
+            </form>
+        </div>
+    </div>
+
+    <!-- BP追加/編集モーダル -->
+    <div id="partnerModal" class="modal">
+        <div class="modal-content">
+            <div class="modal-header">
+                <span>BP情報</span>
+                <span class="close-btn" onclick="closePartnerModal()">&times;</span>
+            </div>
+            
+            <form id="partnerForm">
+                <input type="hidden" id="partnerId">
+                
+                <div class="form-row">
+                    <div class="form-group">
+                        <label>氏名 *</label>
+                        <input type="text" id="partnerName" required autocomplete="off">
+                    </div>
+                    <div class="form-group">
+                        <label>所属会社</label>
+                        <input type="text" id="partnerCompany" autocomplete="off">
+                    </div>
+                </div>
+
+                <div class="quick-fill">
+                    <strong>💡 クイック入力</strong>
+                    <p class="help-text">前月データをコピーして効率的に入力できます</p>
+                    <div class="quick-fill-buttons">
+                        <button type="button" class="btn" onclick="copyPreviousMonthBP()">前月をコピー</button>
+                        <button type="button" class="btn" onclick="copyToAllMonthsBP()">全月に同じ金額を入力</button>
+                    </div>
+                </div>
+
+                <div class="month-tabs" id="partnerMonthTabs"></div>
+                <div id="partnerMonthContents"></div>
+
+                <div class="button-group">
+                    <button type="button" class="btn" onclick="closePartnerModal()">キャンセル</button>
+                    <button type="submit" class="btn btn-primary">保存</button>
+                </div>
+            </form>
+        </div>
+    </div>
+
+    <!-- 社員一括編集モーダル -->
+    <div id="bulkEditModal" class="modal">
+        <div class="modal-content" style="max-width: 1200px;">
+            <div class="modal-header">
+                <span>社員一括編集</span>
+                <span class="close-btn" onclick="closeBulkEditModal()">&times;</span>
+            </div>
+
+            <div class="info-box">
+                <p><strong>💡 一括編集機能</strong></p>
+                <p>複数の社員・BPのデータを一度に編集できます。変更したいセルを直接編集してください。</p>
+            </div>
+
+            <div class="action-bar">
+                <button class="btn btn-success" onclick="saveBulkEdit()">一括保存</button>
+                <button class="btn" onclick="closeBulkEditModal()">キャンセル</button>
+                <div class="search-box">
+                    <input type="text" id="bulkSearch" placeholder="検索..." onkeyup="filterBulkEditTable()">
+                </div>
+            </div>
+
+            <div class="table-wrapper" style="max-height: 500px;">
+                <table id="bulkEditTable">
+                    <thead>
+                        <tr>
+                            <th style="position: sticky; left: 0; background: #ecf0f1; z-index: 11;">
+                                <input type="checkbox" id="selectAll" onchange="toggleSelectAll()">
+                            </th>
+                            <th style="position: sticky; left: 40px; background: #ecf0f1; z-index: 11;">氏名</th>
+                            <th>区分</th>
+                            <th>所属/会社</th>
+                            <th>10月売上</th>
+                            <th>11月売上</th>
+                            <th>12月売上</th>
+                            <th>1月売上</th>
+                            <th>2月売上</th>
+                            <th>3月売上</th>
+                            <th>4月売上</th>
+                            <th>5月売上</th>
+                            <th>6月売上</th>
+                            <th>7月売上</th>
+                            <th>8月売上</th>
+                            <th>9月売上</th>
+                        </tr>
+                    </thead>
+                    <tbody id="bulkEditTableBody"></tbody>
+                </table>
+            </div>
+
+            <div class="button-group">
+                <button class="btn" onclick="closeBulkEditModal()">キャンセル</button>
+                <button class="btn btn-success" onclick="saveBulkEdit()">一括保存</button>
+            </div>
+        </div>
+    </div>
+
+    <!-- BP一括編集モーダル -->
+    <div id="bulkEditPartnerModal" class="modal">
+        <div class="modal-content" style="max-width: 1200px;">
+            <div class="modal-header">
+                <span>BP原価一括編集</span>
+                <span class="close-btn" onclick="closeBulkEditPartnerModal()">&times;</span>
+            </div>
+
+            <div class="info-box">
+                <p><strong>💡 一括編集機能</strong></p>
+                <p>複数のBPの原価データを一度に編集できます。変更したいセルを直接編集してください。</p>
+            </div>
+
+            <div class="action-bar">
+                <button class="btn btn-success" onclick="saveBulkEditPartner()">一括保存</button>
+                <button class="btn" onclick="closeBulkEditPartnerModal()">キャンセル</button>
+                <div class="search-box">
+                    <input type="text" id="bulkPartnerSearch" placeholder="検索..." onkeyup="filterBulkEditPartnerTable()">
+                </div>
+            </div>
+
+            <div class="table-wrapper" style="max-height: 500px;">
+                <table id="bulkEditPartnerTable">
+                    <thead>
+                        <tr>
+                            <th style="position: sticky; left: 0; background: #ecf0f1; z-index: 11;">
+                                <input type="checkbox" id="selectAllPartner" onchange="toggleSelectAllPartner()">
+                            </th>
+                            <th style="position: sticky; left: 40px; background: #ecf0f1; z-index: 11;">BP名</th>
+                            <th>所属会社</th>
+                            <th>10月原価</th>
+                            <th>11月原価</th>
+                            <th>12月原価</th>
+                            <th>1月原価</th>
+                            <th>2月原価</th>
+                            <th>3月原価</th>
+                            <th>4月原価</th>
+                            <th>5月原価</th>
+                            <th>6月原価</th>
+                            <th>7月原価</th>
+                            <th>8月原価</th>
+                            <th>9月原価</th>
+                        </tr>
+                    </thead>
+                    <tbody id="bulkEditPartnerTableBody"></tbody>
+                </table>
+            </div>
+
+            <div class="button-group">
+                <button class="btn" onclick="closeBulkEditPartnerModal()">キャンセル</button>
+                <button class="btn btn-success" onclick="saveBulkEditPartner()">一括保存</button>
+            </div>
+        </div>
+    </div>
+
+    <div class="loading" id="loading">読み込み中...</div>
+
+    <script src="https://cdn.jsdelivr.net/npm/chart.js@4.4.0/dist/chart.umd.min.js"></script>
+    <script src="sales-management.js"></script>
+</body>
+</html>
